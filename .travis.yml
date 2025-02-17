@@ -7,9 +7,7 @@ rvm:
 
 before_deploy:
   - rvm use 3.1.2
-  - gem update --system
-  - gem install ffi -v 1.17.1
-  - gem install jekyll -v 4.1.0 && gem install jekyll-redirect-from && gem install s3_website
+  - gem install jekyll -v 4.1.0 && gem install jekyll-redirect-from && gem install
 
 script: jekyll build
 

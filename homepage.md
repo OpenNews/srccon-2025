@@ -29,7 +29,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 ### What's next
 
-[The OpenNews newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) is a great way to stay up-to-date on tickets, our call for participation, and other event information. You can also keep in touch with us on social media: We're on [Twitter](https://twitter.com/srccon), [BlueSky](https://bsky.app/profile/opennews.bsky.social), and [LinkedIn](https://www.linkedin.com/company/opennews/). If there's anything else you'd like to know about our events, [we'd love to hear from you](mailto:srccon@opennews.org).
+[The OpenNews newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) is a great way to stay up-to-date on tickets, our call for participation, and other event information. You can also keep in touch with us on social media: We're on [BlueSky](https://bsky.app/profile/opennews.bsky.social) and [LinkedIn](https://www.linkedin.com/company/opennews/). If there's anything else you'd like to know about our events, [we'd love to hear from you](mailto:srccon@opennews.org).
 
 ### About us
 

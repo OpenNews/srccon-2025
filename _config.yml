@@ -34,7 +34,7 @@ defaults:
       # cta_button_text: give this a value to enable the orange "call to action" button
       cta_button_text: Propose a session!
       # cta_button_link: set this value to a URL for the orange button (ticket form, etc)
-      cta_button_link: https://2025.srccon.org/participation/form/
+      cta_button_link: /participation/form/
   - scope:
       path: ""
       type: "transcripts"

@@ -1,11 +1,10 @@
-@ -0,0 +1,57 @@
 ---
 section: attendees
 permalink: /attendees/
 title: Attendee guide
 ---
 
-*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open through April 5 to pitch a session, apply for a scholarship, or tell us how else you&rsquo;d like to take part.*
+*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open through March 7 to pitch a session, apply for a scholarship, or tell us how else you&rsquo;d like to take part.*
 
 # Participation at SRCCON
 
@@ -15,7 +14,7 @@ We keep the size of SRCCON intentionally rather small at 300 people, and we've e
 
 The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The form is open from March 20-April 5 for session proposals and scholarship applications, and we'll keep the form open for attendees as long as we can. After that, we will review entries and notify everyone by April 24. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $275 plus fees.
+The form is open from February 19-March 7 for session proposals and scholarship applications, and we'll keep the form open for attendees as long as we can. After that, we will review entries and notify everyone by March 26. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $295 plus fees.
 
 <span id="tickets"></span>
 
@@ -25,8 +24,8 @@ In 2019, [we began experimenting with a tiered ticket-pricing system](https://op
 
 Here are the tiers (plus Eventbrite ticketing fees):
 
-* **$275:** This is the base price designed for people who are paying their own way, from small news organizations with fewer than 50 people, or nonprofits with budgets $750,000 or less.
-* **$395:** A new ticket price for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
+* **$295:** This is the base price designed for people who are paying their own way, from small news organizations with fewer than 50 people, or nonprofits with budgets $750,000 or less.
+* **$425:** A new ticket price for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
 * **$695:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
 
 In addition, we also offer a [free scholarship ticket](/scholarships) as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, in particular for laid-off and freelance journalists. We also give priority to people who identify as members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.

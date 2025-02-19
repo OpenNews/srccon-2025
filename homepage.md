@@ -11,14 +11,14 @@ permalink: /
 
 ✏️ **SRCCON sessions are workshops, not panels. Conversations, not presentations.** This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for) and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
 
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by April 7. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $275 plus fees](/attendees/#tickets).
+Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by March 26. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
 
 ## Key dates for your calendar
 
 * **February 19**: Call for participation opens
 * **March 7**: Deadline to submit session proposals and stipend applications
-* **By April 7**: We'll send out notifications about session proposals and stipend applications
-* **After April 7**: We'll review more participation forms for attendees only, on a rolling basis until the conference
+* **By March 26**: We'll send out notifications about session proposals and stipend applications
+* **After March 26**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **July 10-11**: SRCCON 2025 in Minneapolis!
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2025, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after session proposal deadline, but applying by that date is your best chance to attend.
@@ -35,7 +35,7 @@ The SRCCON program is focused on the practical challenges that news technology a
 
 * Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself—not panels where you sit back and listen, but sessions where you participate and learn.
 * Connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
-* B ring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
+* Bring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
@@ -51,7 +51,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 ### How much does it cost?
 
-[Ticket prices start at $275](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $500 travel or caregiving stipends](/scholarships).
+[Ticket prices start at $295](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $500 travel or caregiving stipends](/scholarships).
 
 SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
 

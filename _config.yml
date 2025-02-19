@@ -1,5 +1,6 @@
 name: SRCCON 2025
 url: https://2025.srccon.org
+markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 gems:

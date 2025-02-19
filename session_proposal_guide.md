@@ -30,9 +30,9 @@ We avoid traditional lectures and classroom-style trainings, and you might notic
 
 #### Key dates
 
-* **April 5**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
-* **By April 24**: We'll send out notifications about session proposals and stipend applications
-* **August 15-16**: SRCCON 2024, in Minneapolis!
+* **March 7**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
+* **By March 26**: We'll send out notifications about session proposals and stipend applications
+* **July 10-11**: SRCCON 2025 in Minneapolis!
 
 
 <span id="what-we-look-for"></span>
@@ -83,7 +83,7 @@ We don't consult a list of trends to figure out which sessions to invite; we wan
 
 #### What kind of planning support is there for session facilitators?
 
-If your session is selected, we'll support you throughout your planning process. That starts as soon as we confirm your session for the program, when we'll share [a Facilitator Guide that should look a lot like this one](https://2023.srccon.org/facilitators/). 
+If your session is selected, we'll support you throughout your planning process. That starts as soon as we confirm your session for the program, when we'll share [a Facilitator Guide that should look a lot like this one](https://2024.srccon.org/facilitators/). 
 
 We'll check in with you to ask about scheduling needs, make sure you're happy with your session name and description, and offer any feedback you need on your session plan. We're always happy to jump on a call to talk through any questions or brainstorms that come up.
 
@@ -127,6 +127,7 @@ Because SRCCON is a collaborative, peer-to-peer event, we do ask that all partic
 
 #### Programs from previous SRCCONs
 
+* [SRCCON:2024](https://2024.srccon.org/schedule/)
 * [SRCCON:2023](https://2023.srccon.org/schedule/)
 * [SRCCON:CARE 2022](https://srccon.org/srccon-care-2022/program/)
 * [SRCCON:2022](https://2022.srccon.org/schedule/)

@@ -1,5 +1,6 @@
 name: SRCCON 2025
 url: https://2025.srccon.org
+markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 gems:
@@ -20,7 +21,7 @@ defaults:
       # event_name: set this value to something like SRCCON 2020 or SRCCON:LEAD
       event_name: SRCCON 2025
       # event_date: set this value to something like July 11 & 12
-      event_date: July 10 -11
+      event_date: July 10-11
       # event_place: set this value to something like Minneapolis
       event_place: Minneapolis, MN
       # event_place_abbreviation: set this value to something like MPLS
@@ -31,9 +32,9 @@ defaults:
       # layout: set this value to layout_with_header_image for pages with images at top
       layout: simple_layout
       # cta_button_text: give this a value to enable the orange "call to action" button
-      cta_button_text: Support OpenNews work!
+      cta_button_text: Propose a session!
       # cta_button_link: set this value to a URL for the orange button (ticket form, etc)
-      cta_button_link: https://opennews.org/donate/
+      cta_button_link: /participation/form/
   - scope:
       path: ""
       type: "transcripts"

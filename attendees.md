@@ -4,17 +4,17 @@ permalink: /attendees/
 title: Attendee guide
 ---
 
-*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open through March 7 to pitch a session, apply for a scholarship, or tell us how else you&rsquo;d like to take part.*
+*There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. <a href="/participation/form/">Our call for participation form</a> is open until 5 p.m. ET on March 10 to pitch a session, apply for a scholarship, or tell us how else you&rsquo;d like to take part. After March 10, the call for participation will remain open for attendees until we're at capacity.*
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open until March 7 for session proposals, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
+SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open until 5 p.m. ET on March 10 for session proposals, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
 
 We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
 
 The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The form is open from February 19-March 7 for session proposals and scholarship applications, and we'll keep the form open for attendees as long as we can. After that, we will review entries and notify everyone by March 26. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $295 plus fees.
+The form is open from February 19-March 10 for session proposals and scholarship applications, and we'll keep the form open for attendees as long as we can. After that, we will review entries and notify everyone by March 26. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $295 plus fees.
 
 <span id="tickets"></span>
 

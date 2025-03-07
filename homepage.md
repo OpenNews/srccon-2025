@@ -7,7 +7,7 @@ permalink: /
 
 # Our call for participation is open!
 
-⏳ **[We’re accepting session proposals through Friday, March 7](/participation/form).** Have an idea for SRCCON 2025? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
+⏳ **[We’re accepting session proposals until 5 p.m. ET on Monday, March 10](/participation/form).** Have an idea for SRCCON 2025? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
 
 ✏️ **SRCCON sessions are workshops, not panels. Conversations, not presentations.** This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for) and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
 
@@ -16,7 +16,7 @@ Our [call for participation form](/participation/form/) includes questions to te
 ## Key dates for your calendar
 
 * **February 19**: Call for participation opens
-* **March 7**: Deadline to submit session proposals and stipend applications
+* **March 10 at 5 p.m. ET**: Deadline to submit session proposals and stipend applications
 * **By March 26**: We'll send out notifications about session proposals and stipend applications
 * **After March 26**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **July 10-11**: SRCCON 2025 in Minneapolis!

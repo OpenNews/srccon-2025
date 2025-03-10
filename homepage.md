@@ -7,7 +7,7 @@ permalink: /
 
 # Join us at SRCCON 2025!
 
-**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).!
+**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
 
 Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
 

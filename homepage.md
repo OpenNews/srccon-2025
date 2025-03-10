@@ -5,13 +5,11 @@ permalink: /
 
 ### Let's build SRCCON together
 
-# Our call for participation is open!
+# Join us at SRCCON 2025!
 
-⏳ **[We’re accepting session proposals until 5 p.m. ET on Monday, March 10](/participation/form).** Have an idea for SRCCON 2025? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
+**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).!
 
-✏️ **SRCCON sessions are workshops, not panels. Conversations, not presentations.** This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for) and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
-
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by March 26. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
+Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
 
 ## Key dates for your calendar
 
@@ -21,7 +19,7 @@ Our [call for participation form](/participation/form/) includes questions to te
 * **After March 26**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **July 10-11**: SRCCON 2025 in Minneapolis!
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2025, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after session proposal deadline, but applying by that date is your best chance to attend.
+Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2025, our call for participation is how to let us know!
 
 ### When & where
 

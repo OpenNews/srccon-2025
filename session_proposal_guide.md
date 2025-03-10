@@ -30,7 +30,7 @@ We avoid traditional lectures and classroom-style trainings, and you might notic
 
 #### Key dates
 
-* **March 7**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
+* **March 10 at 5 p.m. ET**: Deadline to submit session proposals and stipend applications using our [call for participation form](/participation/form/)
 * **By March 26**: We'll send out notifications about session proposals and stipend applications
 * **July 10-11**: SRCCON 2025 in Minneapolis!
 

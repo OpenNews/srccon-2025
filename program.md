@@ -43,9 +43,9 @@ We'd also like to thank the folks who helped us select this amazing slate of ses
 
 Thank you, community reviewers!
 
-* Bridget Thoreson
-* Chelsea Curtis
-* David Elutilo
-* Julia Wolfe
-* Katlyn Alo
-* Maria Puertas
+* Bryan Brussee
+* Dana Cassidy 
+* André Natta
+* Soo Oh
+* Kae Petrin
+* Gabe Schneider

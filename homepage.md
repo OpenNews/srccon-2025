@@ -7,29 +7,34 @@ permalink: /
 
 # Join us at SRCCON 2025!
 
-**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
+**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
 
-Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
+**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+ 
+There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 
-* **February 19**: Call for participation opens
-* **March 10 at 5 p.m. ET**: Deadline to submit session proposals and stipend applications
-* **By March 26**: We'll send out notifications about session proposals and stipend applications
-* **After March 26**: We'll review more participation forms for attendees only, on a rolling basis until the conference
+* **March 10**: Deadline to submit session proposals and stipend applications
+* **By March 26**: Anyone who proposed a session or applied for a scholarship by March 10 has been notified
+* **Now through July**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **July 10-11**: SRCCON 2025 in Minneapolis!
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2025, our call for participation is how to let us know!
 
 ### When & where
 
-On July 10-11 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). When tickets go on sale, we'll also open up a discounted block of rooms for participants at a nearby hotel.
+On July 10-11 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Friday morning.
+ 
+We have reserved a block of rooms at the [Courtyard Minneapolis Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1739474875459&key=GRP&guestreslink2=true&app=resvlink) at a base rate of $171 per night. The The Courtyard Minneapolis Downtown is located one Metro Transit Green Line stop away from the SRCCON venue, and our hotel block includes light rail passes (1 per day, per room). The reserved block of rooms will be available until June 17 or all rooms are booked, whichever happens first — booking early is always a good idea!
 
-We're excited to be back in Minneapolis! SRCCON 2025 will be in-person, and we are still developing our health and safety policies for this event. They will be published when ticket sales open. We're gathering examples from other conferences and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
+We are still developing our health and safety policies for this event. We're gathering examples from other conferences and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
 
 ### What you can expect at {{ page.event_name }}
 
-The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you’ll:
+The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. 
+
+At SRCCON, you’ll:
 
 * Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself—not panels where you sit back and listen, but sessions where you participate and learn.
 * Connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.

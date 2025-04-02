@@ -14,7 +14,7 @@ As one attendee put it, SRCCON​ “made me more confident about my media, my f
 
 ## Ways to sponsor SRCCON and help make it possible
 
-We're seeking sponsors for SRCCON 2024, which will host 300 participants in Minneapolis on August 15-16. If you're interested, [please reach out](mailto:jessica@opennews.org)!
+We're seeking sponsors for SRCCON 2025, which will host 300 participants in Minneapolis on July 10-11. If you're interested, [please reach out](mailto:jessica@opennews.org)!
 
 Available sponsorships include:
 

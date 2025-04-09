@@ -24,7 +24,7 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 ### When & where
 
-On July 10-11 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Friday morning.
+On July 10-11 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Saturday morning (though the Twin Cities are a great place to spend a weekend!).
  
 We have reserved a block of rooms at the [Courtyard Minneapolis Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1739474875459&key=GRP&guestreslink2=true&app=resvlink) at a base rate of $171 per night. The The Courtyard Minneapolis Downtown is located one Metro Transit Green Line stop away from the SRCCON venue, and our hotel block includes light rail passes (1 per day, per room). The reserved block of rooms will be available until June 17 or all rooms are booked, whichever happens first — booking early is always a good idea!
 

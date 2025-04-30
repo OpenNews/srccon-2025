@@ -29,11 +29,47 @@
         "facilitators": "Melanie Plenda, Johnny Bassett",
         "description": "Local newsrooms don’t have to go it alone. Over the past five years, the Granite State News Collaborative and its local news partners have built a locally sourced, tech-driven news-sharing system that has effectively added the equivalent of six full-time reporters to New Hampshire’s journalism landscape, at no cost to the partners. But we’ve gone beyond just sharing stories. We’ve developed a training pipeline for nontraditional reporters, built custom tech tools to streamline collaboration, and launched a collective fundraising model to sustain local news. Now, we want to workshop how others can adapt and expand this model to strengthen their own news ecosystems.\n\nThis interactive, hands-on session will explore what true resource-sharing and collaboration can look like – beyond just swapping stories. Together, we’ll map out challenges, identify opportunities, and design solutions for deeper collaboration in our own communities. We’ll dig into cultural barriers, workflow hacks, and funding strategies that make collaboration work (and last). Attendees will leave with practical, replicable frameworks and fresh ideas to bring back to their newsrooms – because what we’re building doesn’t have to be unique. Let’s push past competition and reimagine how local journalism can work, together.\n"
     },
+        {
+        "id": "process-visual-storytelling",
+        "title": "Can we set a process for visual storytelling?",
+        "facilitators": "C.J. Sinner",
+        "description": "Does any newsroom have this figured out? It can feel like ambitious and immersive visual stories are each a unicorn; we're reinventing the wheel every time. Who's involved? What platforms are we leveraging? Who's editing? No, who's REALLY editing? Do they have expertise only in one medium? Let's identify the key steps so we finally put order to the chaos."
+    },
+    {
+        "id": "community-conversations-crossroads",
+        "title": "Community conversations at a crossroads: What works and doesn't in events meant to bridge divides?",
+        "facilitators": "Nora Hertel",
+        "description": "Organizations continue to emerge to bridge divides in their communities, and news organizations are joining the effort. Are they working? And is it worth the effort? \n\nProject Optimist is one such organization and launched an event series in 2023 called Shades of Purple to spur conversation on difficult topics in Minnesota. The program brought many lessons on event partnerships, promotions, and depolarization. And we're still iterating. Staff are using 2025 to determine whether the dialogue program can pay for itself and if we should continue it in the coming years. Come to hear about lessons learned, share your own experiences with community conversations, and brainstorm a better way for hard and essential community conversations. "
+    },
+    {
+        "id": "counties-worst-best-unit",
+        "title": "Counties: The worst best unit of data",
+        "facilitators": "Lisa Waananen Jones",
+        "description": "What's the deal with counties, anyway? The least populous counties have fewer people than a mildly crowded subway car, and the most populous county has more people than the 10 smallest states combined. Arizona has 15; Georgia has 159. You can't live without 'em \u2014 unless you're in Louisiana with its parishes or Alaska with its boroughs, or in Virginia where cities are independent. Even the word \"county\" is a pain to type \u2014 one letter too many and you've got a totally different geopolitical increment, and one letter too few and you're profane. \n\nBut if the county is not a logical increment of geography or population, it's often the best we've got, and sometimes even good. When is county-level information useful? What other options are out there? Come discuss geographic subdivisions and administrative units, and consider other ways we can split up our datasets and maps."
+    },
     {
         "id": "dismantling-tech-panacea",
         "title": "Dismantling the tech panacea: Solving human-scale newsroom problems with human-scale solutions",
         "facilitators": "Aithne Feay, Ryan Murphy",
         "description": "As technologists in the newsroom, we often rely on technological solutions to workflow problems: Losing track of assets? Build a better admin interface! In this session we study examples from our industry and others to explore the diminishing returns of using software in lieu of more thoughtful communication. We will look at how traditional models of building technology have failed to create empathy among software practitioners and how burgeoning tools like generative AI introduce the potential for further lapses in judgement. We will contrast solving workflow problems with technology with solving workflow problems with communication and become more aware of when we embody each of these approaches."
+    },
+    {
+        "id": "enhancing-community-driven-journalism",
+        "title": "Enhancing community-driven journalism through AI: Building collaboration and empowerment",
+        "facilitators": "Faisal Karimi",
+        "description": "In this session, we'll explore the exciting potential of enhancing community-driven journalism through AI to foster collaboration, inclusivity, and innovation. Community journalism has always thrived on local engagement, but the tools to scale these efforts and reach wider audiences are evolving rapidly. With AI, we can enhance the way we interact with communities, streamline workflows, and create more responsive content that addresses their unique needs. But how can we ensure that AI isn't just another tool for efficiency, but also a force for inclusivity, transparency, and connection?\n\nWe'll dive into practical ways AI can enhance the collaborative approach to community-driven journalism, from automating fact-checking and content moderation to analyzing public sentiment and predicting community needs. Attendees will learn how to build and implement AI-driven tools that work alongside community journalists, not replace them. We'll also discuss strategies for ensuring that these technologies are used ethically and transparently, empowering communities rather than leaving them behind. By the end of this session, we\u2019ll walk away with actionable ideas on how to integrate AI into your own projects, along with a deeper understanding of how AI can help strengthen the bond between journalists and the communities they serve. This session will provide fresh insights into building more collaborative, community-centered journalism in the digital age.\n"
+    },
+    {
+        "id": "explore-career-river",
+        "title": "Explore your Career River: F*ck climbing the ladder, let's navigate toward fulfillment",
+        "facilitators": "Bridget Thoreson, Diana López",
+        "description": "Ever felt stuck or uncertain about where you should head next in your career? The Career River is a framework to help you discover new opportunities without relying on the antiquated, pre-Victorian career ladder concept (yep, it's from the 1830s). I've interviewed dozens of professionals and conducted research for the past several years to build out strategies made for today's working world, shared in my Substack newsletter and upcoming book. \n\nCome to this workshop to: \n- Map your career as a river\n- Redefine professional progress\n- Uncover translatable skills\n- Identify your tributaries\n- Discover strategies to find what's next"
+    },
+    {
+        "id": "fighting-censorship-government-data",
+        "title": "Fighting censorship of government data: How STAT archived data.cdc.gov",
+        "facilitators": "Emory Parker",
+        "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump\u2019s executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored.\n\nThis session will cover the methods STAT used to archive this data, analyze changes between snapshots, and automate monitoring and logging of changes using Github actions and the CDC's API. We'll discuss trends STAT identified and also what else media outlets in general can be doing to preserve access to government datasets and other records."
     },
     {
         "id": "groundhog-day-motivation",
@@ -66,6 +102,12 @@
         "description": "Digital threats against journalists and the communities they serve are escalating globally. This isn't just about authoritarian states anymore; it's a global crisis demanding better practices in journalism. This conversation brings together journalists, community members, and technologists to forge some solutions together.\\n\\nWe'll move beyond general discussion to focus on concrete action:\\n- Hear from practitioners: Real stories of how digital threats are impacting people right now, in the US and other countries.\\n- Understand community needs: Dive into the specific safety and security challenges faced by diverse communities.\\n- Building more practical solutions: Collaboratively brainstorm tools, strategies, and partnerships that reduce the security burden on communities.\\n- Define some next steps: Leave with ideas for building safer spaces for journalism and community engagement."
     },
     {
+        "id": "manifesto-maintenance-art",
+        "title": "Manifesto for maintenance art",
+        "facilitators": "Alec Glassford",
+        "description": "In \u201cManifesto for Maintenance Art 1969!\u201d the artist Mierle Laderman Ukeles describes \u201ctwo basic systems\u201d of action:\n\n\u201cDevelopment: pure individual creation; the new; change; progress, advance, excitement, flight or fleeing.\u201d\n\n\u201cMaintenance: keep the dust off the pure individual creation; preserve the new; sustain the change; protect progress; defend and prolong the advance; renew the excitement; repeat the flight.\u201d \n\nGiven that journalism and technology are often preoccupied with \u201cdevelopment,\u201d let\u2019s discuss the role of maintenance in our work, whether that\u2019s updating long-term editorial pprojects, grappling with technical debt software, or defending documentation and processes from stalling and collapsing. We’ll consider how to remind our bosses, colleagues, and selves of the value of maintenance. And we’ll brainstorm tactics to make maintenance more convenient, likely to happen, and even fun. We’ll also discuss what maintenance looks like in other parts of our lives, for example in the form of domestic labor, and whether/how we bring these experiences into the workplace."
+    },
+    {
         "id": "make-audio-great-good",
         "title": "Make you an audio for great good",
         "facilitators": "Lusen Mendel, Ngoc Bui",
@@ -84,106 +126,28 @@
         "description": "At its best, journalism has always been a public service – a profession rooted in informing, supporting, and empowering communities. But between the pressures of the profession’s work culture, the financial instability of our industry, and the increasingly volatile political climate, we’ve seen our peers are struggling to sustain the work while also making a tangible impact. Journalists want to help our communities. What does forward movement look like when the industry has conflicting ideas on what \\“help\\” actually means? How can journalists reflect on our role as helpers in a way that is fulfilling and useful? \\n\\nIn this session, we’ll explore how building community – both within and outside the field – can help sustain us beyond sharing actionable information that reacts to the current news cycle. Kristine and I have found ways to use our journalism skills on teams more closely aligned with mutual aid, through projects like 730DC, the Phillypino Oral History Project, and grassroots organizing alongside Anakbayan Philadelphia and throughout DC’s Mt. Pleasant neighborhood. We want to share what we’ve learned from these experiences, how they have benefited us personally and professionally, and invite the SRCCON community to discuss their own experiences and insights. Together, we’ll explore ways journalists can rethink their relationship to helping—and through this, better sustain both our communities and ourselves."
     },
     {
-        "id": "systems-doubt-ethics",
-        "title": "Systems of doubt : Ethics at the intersection of technology and journalism",
-        "facilitators": "Damon Kiesow",
-        "description": "Technology is not neutral. Society has inherent biases, and corporations invariably lean toward profit. The intrinsic objectives of big tech, which emphasize scale and profit, often clash with the foundational needs of communities searching for trustworthy information. Accepting technology as an unquestionable 'black box' is nothing short of a betrayal of the community's trust, and the newsroom\u2019s mission.\n\nLet's talk about how to talk about and teach people (students, journalists, communities) to think more critically about the costs and benefits of the technologies that are used in the newsroom and classroom. (Hint: AI might come up in a few cases.)"
-    },
-    {
-        "id": "tiny-tools-big-impact",
-        "title": "Tiny tools for big impact: Local and lightweight LLMs for journalists",
-        "facilitators": "Sachita Nishal, Nick Hagar",
-        "description": "Discover how lightweight, open-source, locally-run tools can transform your reporting process! This hands-on session will introduce journalists to \"tiny tools\" \u2013 free, open-source solutions that run directly on your computer without subscription fees or cloud dependencies. Participants will learn ways to easily integrate these tools within existing workflows, or prototype customized solutions for specific reporting tasks.\n\nWe'll explore tools for unstructured data extraction, data cleaning, LLM-based text processing, RSS-based news aggregation, and image transcription, including WebLLM, Transformers.js, DuckDB, Tabula, and Tesseract.js. We will do walkthroughs with a couple different tools that you can follow along with, or modify as per your needs. You'll leave with practical knowledge for building a personalized toolkit that respects your autonomy, protects sensitive information, and enhances your workflow."
-    },
-    {
-        "id": "vibes-matter-creators",
-        "title": "Vibes matter: Lessons from news creators on building trust",
-        "facilitators": "Ben Reininga, Amanda Yarnell",
-        "description": "Journalism needs to report out important stories \u2013 and share them in a way that will reach broad, diverse audiences. Increasingly, particularly legacy outlets are struggling with the latter; 43% of Americans say they avoid the news and distrust in news institutions is growing. \n\nCommunities of creators on social media have learned a new set of tools to connect with people, often less through explicit strategy and more through responsive experimentation. This session will explore how those lessons can be translated back to journalism \u2014 in more and less literal ways. \n\nThis session will begin with a brief presentation to frame the issues under discussion. We\u2019ll then screen a selection of impactful news videos from social media creators and discuss as a group the techniques they\u2019re using: what production styles, visual choices, creative tools and narrative modes are they using? How is this helping them connect? \n\nAfter identifying common threads as a group, we\u2019ll move to a brainstorm of how these modes could be applied to journalism generally, on social media or off? What tips or inspiration could reporters take in terms of how they build and share their stories? The end result will be a set of new ideas about how journalists can engage with the communities they serve."
-    },
-    {
-        "id": "diy-secure-comms-plan",
-        "title": "Your DIY secure comms plan",
-        "facilitators": "Davis Erin Anderson",
-        "description": "Journalists and sources alike have myriad ways to reach one another, but how can we tell which channels are safe? This session will help you ensure your source's privacy by \n\n1. reviewing the hallmarks of secure communications,\n2. discussing ways in which we can make our tools safer to use, and\n3. developing our very own secure communications planned via a guided activity. \n\nJoin this session to build the groundwork for *your* communications plan, just the way you like it."
-    },
-    {
-        "id": "youth-movement-journalism",
-        "title": "Youth movement journalism: How to meet the moment and pave a better future",
-        "facilitators": "Uyiosa Elegon",
-        "description": "As the journalism industry suffers, youth are showing us more community-centered and cost-effective ways to do journalism. \n\nWe\u2019ll explore the ways Shift Press and other youth media organizations across the nation are reporting on local movements, creating youth-friendly organization infrastructure, and surviving in spite of industry trends. We\u2019ll also discuss compare and contrast these groups to past youth movement media organizations led by the Student Nonviolent Coordinating Committee and the Young Lords."
-    },
-    {
-        "id": "national-support-local",
-        "title": "Are we really helping? Let's explore how national organizations can better support local newsrooms",
-        "facilitators": "Michelle Billman",
-        "description": "When I was a former manager of two tiny public radio newsrooms, I got a lot of offers to help, including grants and toolkits and other things, but most of them didn't make any sense for the daily realities of my work environment. Industry leaders are well aware that local news is essential to rebuilding trust with Americans, and that local news is resource-starved, but there isn't much consensus or in-depth research on how to help in meaningful, sustainable ways. \n\nBoth The Marshall Project and The Trace are experimenting with products for local journalists to support their accountability reporting on criminal justice and gun violence. We offer help desks and consultations, embeddable graphics and data reports, along with free illustrations, expert sources, interview questions, webinars, and more. Now that we've put out a buffet of products, we want to know how local journalists view them. Are they helpful? Would something else be better? Would you actually use these products again and again, or are they just a random one-off? This will be a candid, exploratory session with lots of product demos and ample discussion of how and if local journalists can really use these resources. "
-    },
-    {
-        "id": "process-visual-storytelling",
-        "title": "Can we set a process for visual storytelling?",
-        "facilitators": "C.J. Sinner",
-        "description": "Does any newsroom have this figured out? It can feel like ambitious and immersive visual stories are each a unicorn; we're reinventing the wheel every time. Who's involved? What platforms are we leveraging? Who's editing? No, who's REALLY editing? Do they have expertise only in one medium? Let's identify the key steps so we finally put order to the chaos."
-    },
-    {
-        "id": "community-conversations-crossroads",
-        "title": "Community conversations at a crossroads: What works and doesn't in events meant to bridge divides?",
-        "facilitators": "Nora Hertel",
-        "description": "Organizations continue to emerge to bridge divides in their communities, and news organizations are joining the effort. Are they working? And is it worth the effort? \n\nProject Optimist is one such organization and launched an event series in 2023 called Shades of Purple to spur conversation on difficult topics in Minnesota. The program brought many lessons on event partnerships, promotions, and depolarization. And we're still iterating. Staff are using 2025 to determine whether the dialogue program can pay for itself and if we should continue it in the coming years. Come to hear about lessons learned, share your own experiences with community conversations, and brainstorm a better way for hard and essential community conversations. "
-    },
-    {
-        "id": "counties-worst-best-unit",
-        "title": "Counties: The worst best unit of data",
-        "facilitators": "Lisa Waananen Jones",
-        "description": "What's the deal with counties, anyway? The least populous counties have fewer people than a mildly crowded subway car, and the most populous county has more people than the 10 smallest states combined. Arizona has 15; Georgia has 159. You can't live without 'em \u2014 unless you're in Louisiana with its parishes or Alaska with its boroughs, or in Virginia where cities are independent. Even the word \"county\" is a pain to type \u2014 one letter too many and you've got a totally different geopolitical increment, and one letter too few and you're profane. \n\nBut if the county is not a logical increment of geography or population, it's often the best we've got, and sometimes even good. When is county-level information useful? What other options are out there? Come discuss geographic subdivisions and administrative units, and consider other ways we can split up our datasets and maps."
-    },
-    {
-        "id": "enhancing-community-driven-journalism",
-        "title": "Enhancing community-driven journalism through AI: Building collaboration and empowerment",
-        "facilitators": "Faisal Karimi",
-        "description": "In this session, we'll explore the exciting potential of enhancing community-driven journalism through AI to foster collaboration, inclusivity, and innovation. Community journalism has always thrived on local engagement, but the tools to scale these efforts and reach wider audiences are evolving rapidly. With AI, we can enhance the way we interact with communities, streamline workflows, and create more responsive content that addresses their unique needs. But how can we ensure that AI isn't just another tool for efficiency, but also a force for inclusivity, transparency, and connection?\n\nWe'll dive into practical ways AI can enhance the collaborative approach to community-driven journalism, from automating fact-checking and content moderation to analyzing public sentiment and predicting community needs. Attendees will learn how to build and implement AI-driven tools that work alongside community journalists, not replace them. We'll also discuss strategies for ensuring that these technologies are used ethically and transparently, empowering communities rather than leaving them behind. By the end of this session, we\u2019ll walk away with actionable ideas on how to integrate AI into your own projects, along with a deeper understanding of how AI can help strengthen the bond between journalists and the communities they serve. This session will provide fresh insights into building more collaborative, community-centered journalism in the digital age.\n"
-    },
-    {
-        "id": "explore-career-river",
-        "title": "Explore your Career River: F*ck climbing the ladder, let's navigate toward fulfillment",
-        "facilitators": "Bridget Thoreson, Diana López",
-        "description": "Ever felt stuck or uncertain about where you should head next in your career? The Career River is a framework to help you discover new opportunities without relying on the antiquated, pre-Victorian career ladder concept (yep, it's from the 1830s). I've interviewed dozens of professionals and conducted research for the past several years to build out strategies made for today's working world, shared in my Substack newsletter and upcoming book. \n\nCome to this workshop to: \n- Map your career as a river\n- Redefine professional progress\n- Uncover translatable skills\n- Identify your tributaries\n- Discover strategies to find what's next"
-    },
-    {
-        "id": "fighting-censorship-government-data",
-        "title": "Fighting censorship of government data: How STAT archived data.cdc.gov",
-        "facilitators": "Emory Parker",
-        "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump\u2019s executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored.\n\nThis session will cover the methods STAT used to archive this data, analyze changes between snapshots, and automate monitoring and logging of changes using Github actions and the CDC's API. We'll discuss trends STAT identified and also what else media outlets in general can be doing to preserve access to government datasets and other records."
-    },
-    {
-        "id": "rethinking-journalism",
-        "title": "If it walks like journalism, then it probably is: Rethinking what is journalism",
-        "facilitators": "Darryl Laiu",
-        "description": "Due to the commercial success of journalism in the late 20th century, we have an idea of what journalism is \"supposed to be\". But I propose that this idea is what is holding the industry back from renewed commercial success. On the flip side, we see so many independent creators and small publications around the world doing work that is not called \"journalism\", but sometimes resonating more with people than a critical investigative piece from a major outlet. \n\nIn this session, I want us to unpack that bias and strip \"journalism\" down to its core principles. We'll look at some examples and discuss what traits of journalism we want to keep and what might no longer be important to hold on to. And together, maybe we can compile a resource of examples and ideas for what \"journalism\" can be."
-    },
-    {
-        "id": "opportunities-information-safety",
-        "title": "Journalists, technologists: Opportunities in the fight for information safety",
-        "facilitators": "Patrick Boehler",
-        "description": "Digital threats against journalists and the communities they serve are escalating globally. This isn't just about authoritarian states anymore; it's a global crisis demanding better practices in journalism. This conversation brings together journalists, community members, and technologists to forge some solutions together.\n\nWe'll move beyond general discussion to focus on concrete action:\n- Hear from practitioners: Real stories of how digital threats are impacting people right now, in the US and other countries.\n- Understand community needs: Dive into the specific safety and security challenges faced by diverse communities.\n- Building more practical solutions: Collaboratively brainstorm tools, strategies, and partnerships that reduce the security burden on communities.\n- Define some next steps: Leave with ideas for building safer spaces for journalism and community engagement."
-    },
-    {
-        "id": "manifesto-maintenance-art",
-        "title": "Manifesto for maintenance art",
-        "facilitators": "Alec Glassford",
-        "description": "In \u201cManifesto for Maintenance Art 1969!\u201d the artist Mierle Laderman Ukeles describes \u201ctwo basic systems\u201d of action:\n\n\u201cDevelopment: pure individual creation; the new; change; progress, advance, excitement, flight or fleeing.\u201d\n\n\u201cMaintenance: keep the dust off the pure individual creation; preserve the new; sustain the change; protect progress; defend and prolong the advance; renew the excitement; repeat the flight.\u201d \n\nGiven that journalism and technology are often preoccupied with \u201cdevelopment,\u201d let\u2019s discuss the role of maintenance in our work, whether that\u2019s updating long-term editorial pprojects, grappling with technical debt software, or defending documentation and processes from stalling and collapsing. We’ll consider how to remind our bosses, colleagues, and selves of the value of maintenance. And we’ll brainstorm tactics to make maintenance more convenient, likely to happen, and even fun. We’ll also discuss what maintenance looks like in other parts of our lives, for example in the form of domestic labor, and whether/how we bring these experiences into the workplace."
-    },
-    {
         "id": "silly-hats-serious-work",
         "title": "Silly hats, serious work – Unlocking creativity for better team connection in journalism",
         "facilitators": "Benjamin Deane-Schierloh",
         "description": "This session explores how humor, playfulness, and unconventional facilitation techniques (like costumes, themed meetings, and surprise or gamified elements) can build trust, enhance collaboration, and make work more engaging for teams at news organizations, particularly when the world outside the office feels divisive and harsh.\n\nParticipants will work in groups to experiment, with different creative and silly approaches to team bonding, leading, facilitating and problem-solving, addressing complex issues with humor and with honesty: by bringing their whole selves to a room, in order to \"embrace the mess\" and iteratively create safe and practical solutions."
     },
     {
+        "id": "systems-doubt-ethics",
+        "title": "Systems of doubt : Ethics at the intersection of technology and journalism",
+        "facilitators": "Damon Kiesow",
+        "description": "Technology is not neutral. Society has inherent biases, and corporations invariably lean toward profit. The intrinsic objectives of big tech, which emphasize scale and profit, often clash with the foundational needs of communities searching for trustworthy information. Accepting technology as an unquestionable 'black box' is nothing short of a betrayal of the community's trust, and the newsroom\u2019s mission.\n\nLet's talk about how to talk about and teach people (students, journalists, communities) to think more critically about the costs and benefits of the technologies that are used in the newsroom and classroom. (Hint: AI might come up in a few cases.)"
+    },
+    {
         "id": "alley-teaching-community-journalism",
         "title": "the alley: Teaching community journalism in the Phillips community",
         "facilitators": "Cirien Saadeh",
         "description": "In 2023, the alley alongside the Phillips West Neighborhood Organization (in Minneapolis) and the Journalism of Color Training Center gathered came together to organize a community journalism education program aimed at building journalistic literacy in Phillips and the entire City of Minneapolis. The program included 5 one-off community journalism trainings as well as a \"pitch to promotion\" training series that ended with folks publishing stories in issues of the alley.\n\nIn this workshop, we will explore the role of community-based partnerships in building journalistic literacy and how and why we can use community journalism to disrupt misinformation and disinformation systems targeting historically-marginalized communities and justice-denied communities."
+    },
+    {
+        "id": "tiny-tools-big-impact",
+        "title": "Tiny tools for big impact: Local and lightweight LLMs for journalists",
+        "facilitators": "Sachita Nishal, Nick Hagar",
+        "description": "Discover how lightweight, open-source, locally-run tools can transform your reporting process! This hands-on session will introduce journalists to \"tiny tools\" \u2013 free, open-source solutions that run directly on your computer without subscription fees or cloud dependencies. Participants will learn ways to easily integrate these tools within existing workflows, or prototype customized solutions for specific reporting tasks.\n\nWe'll explore tools for unstructured data extraction, data cleaning, LLM-based text processing, RSS-based news aggregation, and image transcription, including WebLLM, Transformers.js, DuckDB, Tabula, and Tesseract.js. We will do walkthroughs with a couple different tools that you can follow along with, or modify as per your needs. You'll leave with practical knowledge for building a personalized toolkit that respects your autonomy, protects sensitive information, and enhances your workflow."
     },
     {
         "id": "translating-site-reach",
@@ -204,9 +168,27 @@
         "description": "How can newsrooms harness AI-powered semantic search to make better use of their vast photo archives? This hands-on session will introduce how to create embeddings to help journalists and editors find the right images faster, as well as suggest the most compelling file photos and placement for a given story. Over the course of 75 minutes, participants will learn what embeddings and semantic search are and how to leverage their photo archives to create their own image semantic search system. We'll go beyond using AI tools for text analysis and generation and explore other ways AI can play a role in creating richer story packages for our audiences. Along the way, we'll discuss human-in-the-loop guardrails and the limitations of creating tools like this, and have a conversation about how a tool like this can fit into news production workflows in your newsrooms."
     },
     {
+        "id": "vibes-matter-creators",
+        "title": "Vibes matter: Lessons from news creators on building trust",
+        "facilitators": "Ben Reininga, Amanda Yarnell",
+        "description": "Journalism needs to report out important stories \u2013 and share them in a way that will reach broad, diverse audiences. Increasingly, particularly legacy outlets are struggling with the latter; 43% of Americans say they avoid the news and distrust in news institutions is growing. \n\nCommunities of creators on social media have learned a new set of tools to connect with people, often less through explicit strategy and more through responsive experimentation. This session will explore how those lessons can be translated back to journalism \u2014 in more and less literal ways. \n\nThis session will begin with a brief presentation to frame the issues under discussion. We\u2019ll then screen a selection of impactful news videos from social media creators and discuss as a group the techniques they\u2019re using: what production styles, visual choices, creative tools and narrative modes are they using? How is this helping them connect? \n\nAfter identifying common threads as a group, we\u2019ll move to a brainstorm of how these modes could be applied to journalism generally, on social media or off? What tips or inspiration could reporters take in terms of how they build and share their stories? The end result will be a set of new ideas about how journalists can engage with the communities they serve."
+    },
+    {
         "id": "what-weve-learned-AI",
         "title": "What we’ve learned from managing 27 AI projects at once (Spoiler: it's not about technology)",
         "facilitators": "Liam Andrew",
         "description": "AJP has been facilitating dozens of AI initiatives, and some themes and patterns have emerged. We’ll talk about what has worked, and what has been challenging. Project leads from several participating newsrooms will talk about what it has been like to drive AI projects forward in their own organizations—and how collaborating with AJP and other newsrooms has helped.\n\nThen all participants will break into small groups and compare notes about implementing AI in their organizations, and overcoming cultural and resource constraints. We’ll end by sharing some wins and possibilities for others to bring home to their newsrooms. Participants will especially be encouraged to find areas for direct collaboration with peer newsrooms or open source project initiatives."
+    },
+    {
+        "id": "diy-secure-comms-plan",
+        "title": "Your DIY secure comms plan",
+        "facilitators": "Davis Erin Anderson",
+        "description": "Journalists and sources alike have myriad ways to reach one another, but how can we tell which channels are safe? This session will help you ensure your source's privacy by \n\n1. reviewing the hallmarks of secure communications,\n2. discussing ways in which we can make our tools safer to use, and\n3. developing our very own secure communications planned via a guided activity. \n\nJoin this session to build the groundwork for *your* communications plan, just the way you like it."
+    },
+    {
+        "id": "youth-movement-journalism",
+        "title": "Youth movement journalism: How to meet the moment and pave a better future",
+        "facilitators": "Uyiosa Elegon",
+        "description": "As the journalism industry suffers, youth are showing us more community-centered and cost-effective ways to do journalism. \n\nWe\u2019ll explore the ways Shift Press and other youth media organizations across the nation are reporting on local movements, creating youth-friendly organization infrastructure, and surviving in spite of industry trends. We\u2019ll also discuss compare and contrast these groups to past youth movement media organizations led by the Student Nonviolent Coordinating Committee and the Young Lords."
     }
 ]

@@ -1,6 +1,6 @@
 ---
 section: sponsors
-permalink: /sponsors/about
+permalink: /sponsors/about/
 title: Become a sponsor
 ---
 

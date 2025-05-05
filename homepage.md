@@ -30,7 +30,7 @@ We have reserved a block of rooms at the [Courtyard Minneapolis Downtown](https:
 
 We want everyone who comes to SRCCON to feel safe, and we know encouraging sensible precautions makes it possible for more members of our community to attend. We've kept an eye on journalism events since we last convened, and we’re seeing that we can come together in a group as long as we’re all doing our best to look out for others.
 	
-We will not require masking at SRCCON 2025, but some people may be masking. We ask participants to respect anyone wearing a mask, particularly in session spaces where people are gathering more closely together. We will have masks available, but we invite you to bring your preferred N95, KN95, or similar masks as well. We also strongly encourage attendees to be up to date on their vaccinations, test proactively and please consider staying home if you’re not feeling well. If you have any questions or need further information, [reach out to us](mailto:srccon@opennews.org). Thanks for taking care of each other at SRCCON!.
+We will not require masking at SRCCON 2025, but some people may be masking. We ask participants to respect anyone wearing a mask, particularly in session spaces where people are gathering more closely together. We will have masks available, but we invite you to bring your preferred N95, KN95, or similar masks as well. We also strongly encourage attendees to be up to date on their vaccinations, test proactively and please consider staying home if you’re not feeling well. If you have any questions or need further information, [reach out to us](mailto:srccon@opennews.org). Thanks for taking care of each other at SRCCON!
 
 ### What you can expect at {{ page.event_name }}
 

@@ -1,7 +1,6 @@
-@ -1,83 +1,73 @@
 ---
 section: sponsors
-permalink: /sponsors/
+permalink: /sponsors/about/
 title: Become a sponsor
 ---
 
@@ -15,7 +14,7 @@ As one attendee put it, SRCCON​ “made me more confident about my media, my f
 
 ## Ways to sponsor SRCCON and help make it possible
 
-We're seeking sponsors for SRCCON 2024, which will host 300 participants in Minneapolis on August 15-16. If you're interested, [please reach out](mailto:jessica@opennews.org)!
+We're seeking sponsors for SRCCON 2025, which will host 300 participants in Minneapolis July 10-11. If you're interested, [please reach out](mailto:jessica@opennews.org)!
 
 Available sponsorships include:
 
@@ -25,11 +24,11 @@ Support all aspects of the conference planning and program. Partnership sponsors
 
 ### 👉 ACCESSIBILITY SPONSORS
 
-You’re directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program—because you are helping us make SRCCON available to as many people as possible.
+You’re directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program because you are helping us make SRCCON available to as many people as possible.
 
 ### 🙌 MEAL AND BREAK SPONSORS
 
-Help keep attendees nourished throughout the event, and create spaces for attendees over food and drink. We know that these spaces have created lifelong connections between participants, and are extremely meaningful.
+Help keep attendees nourished throughout the event, and create spaces for attendees over food and drink. We know that these spaces have created lifelong connections between participants and are extremely meaningful.
 
 ### 👌 EVENT SPONSORS
 
@@ -71,4 +70,4 @@ People come first at SRCCON. Each event is set up to allow participants to focus
 
 “My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I’ve been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”
 
-Interested in having your company or organization become a sponsor of SRCCON? [Get in touch with OpenNews Co-Director Jessica Morrison today.](mailto:jessica@opennews.org)
+Interested in having your company or organization become a sponsor of SRCCON? Get in touch with [OpenNews Co-Director Jessica Morrison.](mailto:jessica@opennews.org)

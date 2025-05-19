@@ -194,7 +194,7 @@
     {
         "id": "newsgathering-good-bot",
         "title": "Newsgathering as a \"Good Bot\"",
-        "facilitators": "Pam Dempsey, Joe Germuska",
+        "facilitators": "Tiff Fehr",
         "description": "Calling all news scraper authors! This session dives into the latest techniques, technologies, and targets in automated newsgathering. From navigating the evolving legal landscape to sharing experiences — like capturing federal website changes upon a new administration! — we'll discuss how to be responsible and effective \"Good Bots\". The political and legal landscape around scraping is ever-changing but we have new ways to approach cloud-based security with rigor and good citizenship…all while A.I.bots drive site-crippling traffic. Let's discuss Good Bots, journalistic and technical obligations and how we stay thoughtful, thereby reducing headaches for ourselves and our colleagues who fight for our right to scrape."
     },
     {

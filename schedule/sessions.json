@@ -3,22 +3,31 @@
     "id": "thursday-registration",
     "title": "Registration + Coffee & Tea at SRCCON",
     "description": "Get your badges and gear up for the first day of SRCCON! (Please grab breakfast on your own before you join us, but we'll also put out some awesome morning snacks a little later into our conference day.)",
+    "facilitators": "",
     "time": "8am",
     "day": "Thursday",
     "timeblock": "thursday-morning",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "thursday-welcome",
     "title": "Welcome to SRCCON!",
     "description": "We'll kick things off with a welcome, some scene-setting, and some suggestions for getting the most out of SRCCON.",
+    "facilitators": "",
     "time": "9am",
     "day": "Thursday",
     "timeblock": "thursday-morning",
     "room": "Memorial",
     "everyone": "y",
-    "transcription": "y"
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "beyond-going-viral",
@@ -28,7 +37,12 @@
     "time": "10-11:15am",
     "day": "Thursday",
     "timeblock": "thursday-am-1",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "typos-making-mistakes",
@@ -38,7 +52,12 @@
     "time": "10-11:15am",
     "day": "Thursday",
     "timeblock": "thursday-am-1",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "journalisms-relationship-helping",
@@ -48,7 +67,12 @@
     "time": "10-11:15am",
     "day": "Thursday",
     "timeblock": "thursday-am-1",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "systems-doubt-ethics",
@@ -58,7 +82,12 @@
     "time": "10-11:15am",
     "day": "Thursday",
     "timeblock": "thursday-am-1",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "fighting-censorship-government-data",
@@ -69,16 +98,26 @@
     "day": "Thursday",
     "timeblock": "thursday-am-1",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "thursday-am-break",
     "title": "Social break",
     "description": "Take a break! Grab a snack, catch up with people you haven't seen in a while, say hi to someone new!",
+    "facilitators": "",
     "time": "11:15-11:45am",
     "day": "Thursday",
     "timeblock": "thursday-am-break",
-    "break": "y"
+    "room": "",
+    "everyone": "",
+    "social": "",
+    "break": "y",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "process-visual-storytelling",
@@ -88,7 +127,12 @@
     "time": "11:45am-1pm",
     "day": "Thursday",
     "timeblock": "thursday-am-2",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "vibes-matter-creators",
@@ -98,7 +142,12 @@
     "time": "11:45am-1pm",
     "day": "Thursday",
     "timeblock": "thursday-am-2",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "community-conversations-crossroads",
@@ -108,7 +157,12 @@
     "time": "11:45am-1pm",
     "day": "Thursday",
     "timeblock": "thursday-am-2",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "dismantling-tech-panacea",
@@ -118,7 +172,12 @@
     "time": "11:45am-1pm",
     "day": "Thursday",
     "timeblock": "thursday-am-2",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "counties-worst-best-unit",
@@ -129,26 +188,41 @@
     "day": "Thursday",
     "timeblock": "thursday-am-2",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "thursday-lunch",
     "title": "Lunch at SRCCON",
     "description": "Let's eat together! Meals are provided when you attend SRCCON, and our local caterer will have tasty options for all dietary needs.",
+    "facilitators": "",
     "time": "1-2:30pm",
     "day": "Thursday",
     "timeblock": "thursday-lunch",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "News, but make it ASMR: Rethinking how stories feel",
     "description": "Session description coming soon.",
     "facilitators": "Sheetal Banchariya, Aura Walmer",
     "time": "2:30-3:45pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-1",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "influencer-play-one",
@@ -158,7 +232,12 @@
     "time": "2:30-3:45pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-1",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "building-collaborative-news-ecosystem",
@@ -168,7 +247,12 @@
     "time": "2:30-3:45pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-1",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "opportunities-information-safety",
@@ -178,7 +262,12 @@
     "time": "2:30-3:45pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-1",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "building-ethical-guardrails",
@@ -189,16 +278,26 @@
     "day": "Thursday",
     "timeblock": "thursday-pm-1",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "thursday-pm-break",
     "title": "Social break",
     "description": "Take a break! Grab a snack, catch up with people you haven't seen in a while, say hi to someone new!",
+    "facilitators": "",
     "time": "3:45-4:15pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-break",
-    "break": "y"
+    "room": "",
+    "everyone": "",
+    "social": "",
+    "break": "y",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "elevate-bts-labor",
@@ -208,7 +307,12 @@
     "time": "4:15-5:30pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-2",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "rethinking-journalism",
@@ -218,7 +322,12 @@
     "time": "4:15-5:30pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-2",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "resistance-liberation-media",
@@ -228,7 +337,12 @@
     "time": "4:15-5:30pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-2",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "diy-secure-comms-plan",
@@ -238,7 +352,12 @@
     "time": "4:15-5:30pm",
     "day": "Thursday",
     "timeblock": "thursday-pm-2",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "enhancing-community-driven-journalism",
@@ -249,107 +368,206 @@
     "day": "Thursday",
     "timeblock": "thursday-pm-2",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "thursday-dinner",
     "title": "Dinner at SRCCON",
     "description": "Let's eat together! Dinner on Thursday night is provided at SRCCON and our local caterer will have tasty options for all dietary needs.",
+    "facilitators": "",
     "time": "5:30-7pm",
     "day": "Thursday",
     "timeblock": "thursday-dinner",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Memorial",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Memorial",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Memorial",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7pm meet to leave",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Memorial",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7pm meet to leave",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Memorial",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "8-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-2",
     "room": "Johnson",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7-7:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Heritage",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "7-7:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
     "room": "Ski-U-Mah",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "8-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-2",
     "room": "Ski-U-Mah",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "8-8:50pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-2",
     "room": "Ski-U-Mah",
-    "social": "y"
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "friday-open",
     "title": "SRCCON opens",
     "description": "Please grab breakfast on your own, and then join us to ease into the second morning at SRCCON before sessions get started.",
+    "facilitators": "",
     "time": "8am",
     "day": "Friday",
     "timeblock": "friday-morning",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "friday-welcome",
     "title": "SRCCON morning welcome",
     "description": "We'll share any conference information you need to head into Day 2.",
+    "facilitators": "",
     "time": "9am",
     "day": "Friday",
     "timeblock": "friday-morning",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "unlock-image-archives",
@@ -359,33 +577,57 @@
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "Can we “have it all’? Navigating fertility as journalists",
     "description": "Session description coming soon.",
     "facilitators": "Jasmine Han",
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "meet-flatjo-testing-analog",
     "title": "Meet #FlatJo – Testing methods to use analog and digital tools to build trust in local news and share resources with other journalists",
-    "description": "This session will explore how to use a paper doll template – FlatJo – to build community and trust in the news by taking the “Flat Stanley” method to showcase original data / document sources and community questions via a digital album. \n\nParticipants will get their own FlatJo to customize and then plan engagement for small newsrooms / freelancers / larger newsrooms to generate resources for new journalists and connect with audiences in their communities. \n\nThe project will commence at SRCCON in July and continue for one year. The digital photo album can be viewed throughout the year and results will be reviewed at SRCCON 2026. \n",
+    "description": "This session will explore how to use a paper doll template – FlatJo – to build community and trust in the news by taking the “Flat Stanley” method to showcase original data / document sources and community questions via a digital album. \n\nParticipants will get their own FlatJo to customize and then plan engagement for small newsrooms / freelancers / larger newsrooms to generate resources for new journalists and connect with audiences in their communities. \n\nThe project will commence at SRCCON in July and continue for one year. The digital photo album can be viewed throughout the year and results will be reviewed at SRCCON 2026.",
     "facilitators": "Pam Dempsey, Joe Germuska",
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
     "room": "Heritage",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
+    "id": "",
+    "title": "",
+    "description": "",
+    "facilitators": "",
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "tiny-tools-big-impact",
@@ -395,16 +637,27 @@
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
-    "room": "Johnson"
+    "room": "Johnson",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "friday-am-break",
     "title": "Social break",
     "description": "Take a break! Grab a snack, catch up with people you haven't seen in a while, say hi to someone new!",
+    "facilitators": "",
     "time": "10:45-11:15am",
     "day": "Friday",
     "timeblock": "friday-am-break",
-    "break": "y"
+    "room": "",
+    "everyone": "",
+    "social": "",
+    "break": "y",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "translating-site-reach",
@@ -414,7 +667,12 @@
     "time": "11:15-12:30pm",
     "day": "Friday",
     "timeblock": "friday-am-2",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "neurodivergent-journalist-support",
@@ -424,7 +682,12 @@
     "time": "11:15-12:30pm",
     "day": "Friday",
     "timeblock": "friday-am-2",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "alley-teaching-community-journalism",
@@ -434,7 +697,12 @@
     "time": "11:15-12:30pm",
     "day": "Friday",
     "timeblock": "friday-am-2",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "groundhog-day-motivation",
@@ -444,7 +712,12 @@
     "time": "11:15-12:30pm",
     "day": "Friday",
     "timeblock": "friday-am-2",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "what-weve-learned-AI",
@@ -455,69 +728,116 @@
     "day": "Friday",
     "timeblock": "friday-am-2",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "friday-lunch",
     "title": "Lunch at SRCCON",
     "description": "Let's eat together! Meals are provided when you attend SRCCON, and our local caterer will have tasty options for all dietary needs.",
+    "facilitators": "",
     "time": "12:30-2pm",
     "day": "Friday",
     "timeblock": "friday-lunch",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "UNCONFERENCE SESSION",
     "description": "We'll create these sessions together at SRCCON!",
+    "facilitators": "",
     "time": "2-3:15pm",
     "day": "Friday",
     "timeblock": "friday-pm-1",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "UNCONFERENCE SESSION",
     "description": "We'll create these sessions together at SRCCON!",
+    "facilitators": "",
     "time": "2-3:15pm",
     "day": "Friday",
     "timeblock": "friday-pm-1",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "UNCONFERENCE SESSION",
     "description": "We'll create these sessions together at SRCCON!",
+    "facilitators": "",
     "time": "2-3:15pm",
     "day": "Friday",
     "timeblock": "friday-pm-1",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
+    "id": "",
     "title": "UNCONFERENCE SESSION",
     "description": "We'll create these sessions together at SRCCON!",
+    "facilitators": "",
     "time": "2-3:15pm",
     "day": "Friday",
     "timeblock": "friday-pm-1",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "newsgathering-good-bot",
-    "title": "Newsgathering as a \"Good Bot\"",
+    "title": "Newsgathering as a \"Good Bot",
     "description": "Calling all news scraper authors! This session dives into the latest techniques, technologies, and targets in automated newsgathering. From navigating the evolving legal landscape to sharing experiences — like capturing federal website changes upon a new administration! — we'll discuss how to be responsible and effective \"Good Bots\". The political and legal landscape around scraping is ever-changing but we have new ways to approach cloud-based security with rigor and good citizenship…all while A.I.bots drive site-crippling traffic. Let's discuss Good Bots, journalistic and technical obligations and how we stay thoughtful, thereby reducing headaches for ourselves and our colleagues who fight for our right to scrape.",
     "facilitators": "Tiff Fehr",
     "time": "2-3:15pm",
     "day": "Friday",
     "timeblock": "friday-pm-1",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "wednesday-pm-break",
     "title": "Social break",
     "description": "Take a break! Grab a snack, catch up with people you haven't seen in a while, say hi to someone new!",
+    "facilitators": "",
     "time": "3:15-3:45pm",
     "day": "Friday",
     "timeblock": "friday-pm-break",
-    "break": "y"
+    "room": "",
+    "everyone": "",
+    "social": "",
+    "break": "y",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "national-support-local",
@@ -527,7 +847,12 @@
     "time": "3:45-5pm",
     "day": "Friday",
     "timeblock": "friday-pm-2",
-    "room": "Memorial"
+    "room": "Memorial",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "explore-career-river",
@@ -537,7 +862,12 @@
     "time": "3:45-5pm",
     "day": "Friday",
     "timeblock": "friday-pm-2",
-    "room": "Ski-U-Mah"
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "youth-movement-journalism",
@@ -547,7 +877,12 @@
     "time": "3:45-5pm",
     "day": "Friday",
     "timeblock": "friday-pm-2",
-    "room": "Heritage"
+    "room": "Heritage",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "silly-hats-serious-work",
@@ -557,7 +892,12 @@
     "time": "3:45-5pm",
     "day": "Friday",
     "timeblock": "friday-pm-2",
-    "room": "Thomas Swain"
+    "room": "Thomas Swain",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   },
   {
     "id": "manifesto-maintenance-art",
@@ -568,15 +908,25 @@
     "day": "Friday",
     "timeblock": "friday-pm-2",
     "room": "Johnson",
-    "transcription": "y"
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "y",
+    "notepad": ""
   },
   {
     "id": "friday-closing",
     "title": "SRCCON Closing",
+    "description": "",
+    "facilitators": "",
     "time": "5pm",
     "day": "Friday",
     "timeblock": "friday-evening",
     "room": "Memorial",
-    "everyone": "y"
+    "everyone": "y",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
   }
 ]

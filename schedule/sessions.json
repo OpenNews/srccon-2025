@@ -495,21 +495,6 @@
     "notepad": ""
   },
   {
-    "id": "",
-    "title": "",
-    "description": "",
-    "facilitators": "",
-    "time": "9:30-10:45am",
-    "day": "Friday",
-    "timeblock": "friday-am-1",
-    "room": "Thomas Swain",
-    "everyone": "",
-    "social": "",
-    "break": "",
-    "transcription": "",
-    "notepad": ""
-  },
-  {
     "id": "tiny-tools-big-impact",
     "title": "Tiny tools for big impact: Local and lightweight LLMs for journalists",
     "description": "Discover how lightweight, open-source, locally-run tools can transform your reporting process! This hands-on session will introduce journalists to \"tiny tools\" – free, open-source solutions that run directly on your computer without subscription fees or cloud dependencies. Participants will learn ways to easily integrate these tools within existing workflows, or prototype customized solutions for specific reporting tasks.\n\nWe'll explore tools for unstructured data extraction, data cleaning, LLM-based text processing, RSS-based news aggregation, and image transcription, including WebLLM, Transformers.js, DuckDB, Tabula, and Tesseract.js. We will do walkthroughs with a couple different tools that you can follow along with, or modify as per your needs. You'll leave with practical knowledge for building a personalized toolkit that respects your autonomy, protects sensitive information, and enhances your workflow.",

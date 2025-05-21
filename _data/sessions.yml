@@ -45,6 +45,12 @@
         
         \nThis interactive, hands-on session will explore what true resource-sharing and collaboration can look like – beyond just swapping stories. Together, we'll map out challenges, identify opportunities, and design solutions for deeper collaboration in our own communities. We'll dig into cultural barriers, workflow hacks, and funding strategies that make collaboration work (and last). Attendees will leave with practical, replicable frameworks and fresh ideas to bring back to their newsrooms – because what we're building doesn't have to be unique. Let's push past competition and reimagine how local journalism can work, together."
     },
+    {
+        "id": "fertility-as-journalists",
+        "title": "Can we \"have it all\"? Navigating fertility as journalists",
+        "facilitators": "Jasmine Han",
+        "description": "Session description coming soon."
+    },
         {
         "id": "process-visual-storytelling",
         "title": "Can we set a process for visual storytelling?",
@@ -192,6 +198,12 @@
         \nThe project will commence at SRCCON in July and continue for one year. The digital photo album can be viewed throughout the year and results will be reviewed at SRCCON 2026."
     },
     {
+        "id": "news-but-asmr",
+        "title": "News, but make it ASMR: Rethinking how stories feel",
+        "facilitators": "Sheetal Banchariya, Aura Walmer",
+        "description": "Session description coming soon."
+    },
+    {
         "id": "newsgathering-good-bot",
         "title": "Newsgathering as a \"Good Bot\"",
         "facilitators": "Tiff Fehr",
@@ -232,7 +244,7 @@
     {
         "id": "tiny-tools-big-impact",
         "title": "Tiny tools for big impact: Local and lightweight LLMs for journalists",
-        "facilitators": "Nick Hagar",
+        "facilitators": "Nick Hagar, Mandi Cai, Jeremy Gilbert",
         "description": "Discover how lightweight, open-source, locally-run tools can transform your reporting process! This hands-on session will introduce journalists to \"tiny tools\" \u2013 free, open-source solutions that run directly on your computer without subscription fees or cloud dependencies. Participants will learn ways to easily integrate these tools within existing workflows, or prototype customized solutions for specific reporting tasks.
         
         \nWe'll explore tools for unstructured data extraction, data cleaning, LLM-based text processing, RSS-based news aggregation, and image transcription, including WebLLM, Transformers.js, DuckDB, Tabula, and Tesseract.js. We will do walkthroughs with a couple different tools that you can follow along with, or modify as per your needs. You'll leave with practical knowledge for building a personalized toolkit that respects your autonomy, protects sensitive information, and enhances your workflow."
@@ -274,7 +286,7 @@
     {
         "id": "what-weve-learned-AI",
         "title": "What we've learned from managing 27 AI projects at once (Spoiler: it's not about technology)",
-        "facilitators": "Liam Andrew, Alexandra Harris, Cynthia Tu",
+        "facilitators": "Liam Andrew, Ashley Harper, Alexandra Harris, Cynthia Tu",
         "description": "AJP has been facilitating dozens of AI initiatives, and some themes and patterns have emerged. We'll talk about what has worked, and what has been challenging. Project leads from several participating newsrooms will talk about what it has been like to drive AI projects forward in their own organizations – and how collaborating with AJP and other newsrooms has helped.
         
         \nThen all participants will break into small groups and compare notes about implementing AI in their organizations, and overcoming cultural and resource constraints. We'll end by sharing some wins and possibilities for others to bring home to their newsrooms. Participants will especially be encouraged to find areas for direct collaboration with peer newsrooms or open source project initiatives."

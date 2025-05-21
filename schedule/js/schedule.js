@@ -221,8 +221,8 @@ function Schedule(CONFIG) {
             sessionID: sessionItem.id,
             //sessionClass: sessionItem.everyone || sessionItem.break ? 'everyone' : sessionItem.length == '75 minutes' ? 'length-short' : 'length-alt',
             sessionClass: sessionItem.everyone ? 'everyone' : sessionItem.break ? 'break' : sessionItem.social ? 'social' : sessionItem.talk ? 'talk' : 'session',
-            showDay: false,
-            showFacilitators: false,
+            showDay: true,
+            showFacilitators: true,
             smartypants: schedule.smartypants
         }
         // some templates need to show expanded data

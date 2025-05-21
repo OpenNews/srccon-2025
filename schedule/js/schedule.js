@@ -221,7 +221,7 @@ function Schedule(CONFIG) {
             sessionID: sessionItem.id,
             //sessionClass: sessionItem.everyone || sessionItem.break ? 'everyone' : sessionItem.length == '75 minutes' ? 'length-short' : 'length-alt',
             sessionClass: sessionItem.everyone ? 'everyone' : sessionItem.break ? 'break' : sessionItem.social ? 'social' : sessionItem.talk ? 'talk' : 'session',
-            showDay: true,
+            showDay: false,
             showFacilitators: true,
             smartypants: schedule.smartypants
         }

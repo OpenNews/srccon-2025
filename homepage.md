@@ -9,14 +9,14 @@ permalink: /
 
 **Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
 
-**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+**Our program:** We just published [our conference schedule](/schedule/)! Take a look at what we have planned for this year, amrk your favorites and share with others!
  
-There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
+There's still time to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 
-* **March 10**: Deadline to submit session proposals and stipend applications
-* **By March 26**: Anyone who proposed a session or applied for a scholarship by March 10 has been notified
+<!-- * **March 10**: Deadline to submit session proposals and stipend applications
+* **By March 26**: Anyone who proposed a session or applied for a scholarship by March 10 has been notified -->
 * **Now through July**: We'll review more participation forms for attendees only, on a rolling basis until the conference
 * **July 10-11**: SRCCON 2025 in Minneapolis!
 

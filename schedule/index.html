@@ -3,21 +3,21 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>SRCCON 2024 Schedule</title>
+        <title>SRCCON 2025 Schedule</title>
         <meta name="description" content="Scheduled program for SRCCON 2023, October 17-18 in MPLS!">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://use.typekit.net/clq2rji.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
         
-        <meta property="og:title" content="SRCCON 2024 Schedule">
+        <meta property="og:title" content="SRCCON 2025 Schedule">
         <meta property="og:type" content="article">
         <meta property="og:description" content="A participant-led conference from OpenNews for journalists who want to transform their work, their organizations, and their communities."/>
-        <meta property="og:image" content="https://2024.srccon.org/media/img/srccon_share_logo.png" />
+        <meta property="og:image" content="https://2025.srccon.org/media/img/srccon_share_logo.png" />
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" value="@srccon" />
-        <meta name="twitter:title" value="SRCCON 2024 Schedule" />
+        <meta name="twitter:title" value="SRCCON 2025 Schedule" />
         <meta name="twitter:description" value="A participant-led conference from OpenNews for journalists who want to transform their work, their organizations, and their communities." />
-        <meta name="twitter:image" value="https://2024.srccon.org/media/img/srccon_share_logo.png" />
+        <meta name="twitter:image" value="https://2025.srccon.org/media/img/srccon_share_logo.png" />
         <meta name="twitter:image:alt" value="SRCCON conference logo" />
         
         <link rel="stylesheet" href="css/schedule.css">
@@ -38,14 +38,14 @@
         <header>
             <nav id="header-nav">
                 <div class="container">
-                    <a href="/" id="corner-logo"><img src="https://2024.srccon.org/media/img/srccon_logo.png"></a>
+                    <a href="/" id="corner-logo"><img src="https://2025.srccon.org/media/img/srccon_logo.png"></a>
                     <ul class="site-nav-links">
                     </ul>
                 </div>
             </nav>        
             <div id="header-callout">
                 <div class="page-container">
-                    <span><a class="btn" href="https://2024.srccon.org/participation/form/">Join us there!</a> &nbsp;&nbsp; August&nbsp;15-16 in Minneapolis</span>
+                    <span><a class="btn" href="https://2025.srccon.org/participation/form/">Join us there!</a> &nbsp;&nbsp; July&nbsp;10-11 in Minneapolis</span>
                 </div>
             </div>
         </header>
@@ -114,11 +114,11 @@
         <a href="#_session-<%= sessionID %>" id="session-<%= sessionID %>" class="session-list-item session-<%= sessionClass %>" data-session="<%= sessionID.replace('-ghost','') %>">
             <h4><%= smartypants(session.title) %></h3>
             <% if (showFacilitators) { %><p class="session-facilitators"><%= smartypants(session.facilitators) %></p><% } %>
-            <% if (!showFacilitators) { %><p>
+            <p>
                 <span class="session-time"><% if (showDay) { %><%= session.day %>, <% } %><%= session.time %></span>
                 <span class="session-room"><%= smartypants(session.room) %></span>
                 <% if (session.transcription) { %><span class="session-transcription"><i class="fa fa-cc"></i></span><% } %>
-            </p><% } %>
+            </p>
         </a>
         </script>
 
@@ -178,15 +178,15 @@
             var config = {
                 pathToSessionsJson: 'sessions.json',
                 // change this every year
-                localStoragePrefix: 'srccon-2024',
+                localStoragePrefix: 'srccon-2025',
                 localizeTimes: false,
                 // show facilitator names on index until a 1-2 weeks before event
                 // then switch to show rooms & times on index view
-                showSessionRoomOnIndex: (new Date(2024,7,1) > new Date()),
+                showSessionRoomOnIndex: (new Date(2025,6,1) > new Date()),
                 // use js dates here to auto open the right tab during SRCCON
                 tabList: [
-                    { name: 'Thursday', displayName: 'Thu', tabDate: new Date(2024,7,15) },
-                    { name: 'Friday', displayName: 'Fri', tabDate: new Date(2024,7,16) },
+                    { name: 'Thursday', displayName: 'Thu', tabDate: new Date(2025,6,10) },
+                    { name: 'Friday', displayName: 'Fri', tabDate: new Date(2025,6,11) },
                     { name: 'All', displayName: '<i class="fa fa-search"></i>' }
                 ]
             }

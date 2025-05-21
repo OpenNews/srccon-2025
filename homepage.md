@@ -9,7 +9,7 @@ permalink: /
 
 **Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
 
-**Our program:** We just published [our conference schedule](/schedule/)! Take a look at what we have planned for this year, amrk your favorites and share with others!
+**Our program:** We just published [our conference schedule](/schedule/)! Take a look at what we have planned for this year, mark your favorites and share with others!
  
 There's still time to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 

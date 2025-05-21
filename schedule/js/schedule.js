@@ -7,7 +7,7 @@ function Schedule(CONFIG) {
         // TODO: make these configurable, passed in as options
         // when you create a Schedule() instance on the page
         schedule.pathToSessionsJson = CONFIG.pathToSessionsJson;
-        schedule.showSessionRoomOnIndex = CONFIG.showSessionRoomOnIndex;
+        // schedule.showSessionRoomOnIndex = CONFIG.showSessionRoomOnIndex;
         schedule.$container = $('#schedule');
         schedule.$tabs = $('<ul>').appendTo('#schedule-controls');
         schedule.$pageLinks = $('#page-links');

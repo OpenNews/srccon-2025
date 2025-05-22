@@ -11,7 +11,7 @@ permalink: /
 
 **Our program:** We just published [our conference schedule](/schedule/)! Take a look at what we have planned for this year, mark your favorites and share with others!
  
-There's still time to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
+**You can still get involved:** We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 

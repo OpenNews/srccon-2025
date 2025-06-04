@@ -4,7 +4,8 @@ permalink: /welcome/
 title: Welcome to SRCCON!
 ---
 
-# Welcome to SRCCON! Your FAQ guide
+# Welcome to SRCCON! 
+## Your FAQ guide
 
 SRCCON is unlike a lot of other conferences. It’s highly participatory, and it’s designed to help you share your skills and connect with a bunch of folks who are likely working through similar challenges and questions.
 

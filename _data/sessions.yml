@@ -163,11 +163,11 @@
         "id": "elevate-bts-labor",
         "title": "Let's elevate, appreciate or eliminate behind-the-scenes labor",
         "facilitators": "Jane Seidel, Julia Haslanger",
-        "description": "This session is for the people who keep things running behind the scenes. The people who send the reminders to add alt-text/SEO headline/content tags, who clean up the bugs and tech debt, who keep people on task and projects moving forward, who cheerlead but rarely get cheered in return.
-
-        \n We can commiserate together, of course, but we can also all learn from each other.
-
-        \n We'll share our experiences, find common challenges, hear process change success stories, and come up with strategies to make this work more visible, valued, and hopefully a little easier (or at least less annoying)."
+        "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump’s executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored. 
+        
+        \nMoving forward, though, we've already seen that the Trump administration may collect less data and make it harder for the public to access. It's also possible that future collection methods may not be truly comparable to archived data. How can journalists take creative approaches to evaluating data over time, combining archival and future data, and building national context by harnessing state or municipal data that may be harder to compare across administrative boundary lines? 
+        
+        \nThis session will cover the methods STAT used to archive this data, analyze changes between snapshots, and automate monitoring and logging of changes using Github actions and the CDC’s API. We’ll also talk about what else media outlets can do to preserve access to government datasets and other records, as well as tactics for broadening the way we think about telling a \"national\" data story."
     },
     {
         "id": "make-audio-great-good",
@@ -199,9 +199,9 @@
     },
     {
         "id": "news-but-asmr",
-        "title": "News, but make it ASMR: Rethinking how stories feel",
+        "title": "Rethinking How Stories Feel: ASMR, Sonification, and Sensory Techniques for Journalism",
         "facilitators": "Sheetal Banchariya, Aura Walmer",
-        "description": "Session description coming soon."
+        "description": "Keeping up with the news can feel overwhelming, and even stressful. Journalism often relies heavily on stimulating visuals and text – but what if it were designed to be felt, and to engage the senses in a positive way? In this session, we will explore how methods like ASMR, data sonification, ambient soundscapes, and multimodal design can inspire sensory storytelling and transform how audiences connect with content. Participants will have the opportunity to brainstorm intentional designs, and will receive resources for how to implement these multisensory techniques beyond the session. Sensory-driven journalism can provide a relieving alternative to news anxiety, allowing audiences to feel engaged, soothed, and included."
     },
     {
         "id": "newsgathering-good-bot",
@@ -286,7 +286,7 @@
     {
         "id": "what-weve-learned-AI",
         "title": "What we've learned from managing 27 AI projects at once (Spoiler: it's not about technology)",
-        "facilitators": "Liam Andrew, Ashley Harper, Alexandra Harris, Cynthia Tu",
+        "facilitators": "Liam Andrew, Ashley Harper, Alexandra Harris, Cynthia Tu, Giovanni Moujaes",
         "description": "AJP has been facilitating dozens of AI initiatives, and some themes and patterns have emerged. We'll talk about what has worked, and what has been challenging. Project leads from several participating newsrooms will talk about what it has been like to drive AI projects forward in their own organizations – and how collaborating with AJP and other newsrooms has helped.
         
         \nThen all participants will break into small groups and compare notes about implementing AI in their organizations, and overcoming cultural and resource constraints. We'll end by sharing some wins and possibilities for others to bring home to their newsrooms. Participants will especially be encouraged to find areas for direct collaboration with peer newsrooms or open source project initiatives."

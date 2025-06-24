@@ -48,8 +48,18 @@
     {
         "id": "fertility-as-journalists",
         "title": "Can we \"have it all\"? Navigating fertility as journalists",
-        "facilitators": "Jasmine Han",
-        "description": "Session description coming soon."
+        "facilitators": "Jasmine Han, Carlana Johnson",
+        "description": "We love our career but what if we also would love a family? As journalists we are in an industry demanding of our time, energy and sometimes it feels required to put our personal life and family plan on hold. Women often face the pressure of biological clock and waiting increases the chance of infertility down the road. LGBTQ+ communities face hurdles from unequal treatment by employers and insurance. And let's not forget how expensive fertility treatments are out of pocket and the fact that fertility benefits are not common.
+
+        \nFertility is a personal choice. But people in this journey can feel extremely lonely and benefit from a safe space for support and sharing information.
+
+        \nThis session is good if this describes you:
+            \n- I'm not sure if I want kids yet. How do I figure it out? Would I enjoy being a parent? Is it worth freezing my eggs/embryos?
+            \n- I want to freeze my eggs/start IVF. Where do I start? How do I choose a clinic?
+            \n- I'm trying to start a family with no success. What do I do next? How do I cope with the feelings of shame or failure?
+            \n- I've been through egg freezing/IVF/fertility treatments/adoption and would like to share my knowledge and experience.
+            \n- I am thinking about how to balance my career goals and fertility goals. How can I make choices that reflect me as a whole person?
+            \n- I want to know how to support an employee/co-worker navigating fertility."
     },
         {
         "id": "process-visual-storytelling",
@@ -91,23 +101,22 @@
         "id": "explore-career-river",
         "title": "Explore your Career River: F*ck climbing the ladder, let's navigate toward fulfillment",
         "facilitators": "Bridget Thoreson, Diana López",
-        "description": "Ever felt stuck or uncertain about where you should head next in your career? The Career River is a framework to help you discover new opportunities without relying on the antiquated, pre-Victorian career ladder concept (yep, it's from the 1830s). I've interviewed dozens of professionals and conducted research for the past several years to build out strategies made for today's working world, shared in my Substack newsletter and upcoming book. 
+        "description": "Ever felt stuck or unsure about where you should head next in your career? The Career River is a framework to help you discover new opportunities without relying on the antiquated, pre-Victorian career ladder concept (yep, it's from the 1830s). Bridget Thoreson is the creator of the Explore Your Career River newsletter, and she's talked with 118 professionals (and counting) to build out strategies made for today's working world. Diana López has helped Bridget build out the Career River concept into a book proposal, and together we're here to help you examine what's possible when we embrace exploration during times of uncertainty.
+
         
-        \nCome to this workshop to: 
-        
-        \n- Map your career as a river
+        \nCome to this workshop to:
         
         \n- Redefine professional progress
         
-        \n- Uncover translatable skills
+        \n- Map your career as a river
         
-        \n- Identify your tributaries
+        \n- Uncover transferable skills
         
-        \n- Discover strategies to find what's next"
+        \n- Make a plan to find what's next"
     },
     {
         "id": "fighting-censorship-government-data",
-        "title": "Fighting censorship of government data: How STAT archived data.cdc.gov",
+        "title": "Fighting censorship of government data and moving beyond reliance on federal collections",
         "facilitators": "Emory Parker, Kae Petrin",
         "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump\u2019s executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored.
         
@@ -163,11 +172,11 @@
         "id": "elevate-bts-labor",
         "title": "Let's elevate, appreciate or eliminate behind-the-scenes labor",
         "facilitators": "Jane Seidel, Julia Haslanger",
-        "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump’s executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored. 
+        "description": "As rumors began swirling near the end of January that federal websites would be taken down entirely if they had not yet fully complied with Trump's executive orders, STAT downloaded and archived all available files from data.cdc.gov. We made that archive publicly available shortly after that along with a comprehensive analysis of what datasets had been deleted and which had been censored. 
         
         \nMoving forward, though, we've already seen that the Trump administration may collect less data and make it harder for the public to access. It's also possible that future collection methods may not be truly comparable to archived data. How can journalists take creative approaches to evaluating data over time, combining archival and future data, and building national context by harnessing state or municipal data that may be harder to compare across administrative boundary lines? 
         
-        \nThis session will cover the methods STAT used to archive this data, analyze changes between snapshots, and automate monitoring and logging of changes using Github actions and the CDC’s API. We’ll also talk about what else media outlets can do to preserve access to government datasets and other records, as well as tactics for broadening the way we think about telling a \"national\" data story."
+        \nThis session will cover the methods STAT used to archive this data, analyze changes between snapshots, and automate monitoring and logging of changes using Github actions and the CDC's API. We'll also talk about what else media outlets can do to preserve access to government datasets and other records, as well as tactics for broadening the way we think about telling a \"national\" data story."
     },
     {
         "id": "make-audio-great-good",
@@ -251,11 +260,11 @@
     },
     {
         "id": "translating-site-reach",
-        "title": "Translating your site to reach non-English speakers",
+        "title": "How To Responsibly Use Machine Translations In Your Newsroom",
         "facilitators": "Lily Lou",
-        "description": "The number of non-English speakers in the United States has been increasing, creating a growing need for news in languages other than English for US newsrooms. While some publications have taken steps to address this demand by hiring translators, translation can be a resource-intensive task, particularly for smaller newsrooms. Tools like Google Translate can aid translation efforts by translating large amounts of text quickly and cheaply in more than 100 languages.
-        
-        \nThis interactive workshop will provide an overview of how we translate our stories at Rest of World, including how we've used both human translators and automatic machine translations to reach audiences around the world. We'll discuss our process for selecting languages for machine translation, as well as the limitations of this technology. This session will also include an interactive component where attendees will learn how to implement translations using Google's Cloud Translation API or Libre Translate on their own websites."
+        "description": "The number of non-English speakers in the United States has been increasing, creating a growing need for news in languages other than English for US newsrooms. While some publications have taken steps to address this demand by hiring translators, translation can be a resource-intensive task, particularly for smaller newsrooms. Tools like Google Translate can aid translation efforts by translating large amounts of text quickly and cheaply in more than 100 languages. 
+
+        \nThis session will examine case studies of newsrooms that have integrated machine translations into their workflows, both for internal processes and reader-facing content. Participants will discuss the art of translation — what makes a good translation, in the context of a newsroom and the tradeoffs of using machine translators. In this workshop, participants will explore and compare different translations tools, such as Google Translate, LibreTranslate and ChatGPT, and discuss different strategies for using machine translations as part of the publishing process. It will also feature a live code demo (no coding experience needed to attend!) translating a news article to a different language. Participants will leave with a deeper understanding of modern machine translation technology and how it can be thoughtfully applied in modern newsrooms."
     },
     {
         "id": "typos-making-mistakes",

@@ -30,10 +30,10 @@
     "notepad": ""
   },
   {
-    "id": "beyond-going-viral",
-    "title": "Beyond ‘going viral’: How to define what content is good content",
-    "description": "Going viral isn’t the only thing that matters anymore.\n\nAt the Minnesota Star Tribune, we found that defining our content’s success only by the volume of traffic it received did not lead to the outcomes we wanted for our audience and business. Instead, we introduced a metric called New Subscriber Paths, which looks at the stories a reader consumed before subscribing, and are working on building a suite of metrics to understand what types of stories are effective for different journalistic and business goals. \n\nWe are also developing a framework through machine learning to systematically categorize content the Star Tribune produces, allowing us to find what kinds of stories do better and bring that insight to the newsroom. \n\nIn this session, we’ll brainstorm new metrics that can capture different goals for your news organization and ways to categorize your content and audiences to dig deeper into these metrics. At the end of this session, we hope you’ll have new inspiration for how to define what’s a successful story at your organization.",
-    "facilitators": "Emily Hood, Genesis Qu",
+    "id": "unlock-image-archives",
+    "title": "Unlock your image archives with semantic search in under 75 minutes",
+    "description": "How can newsrooms harness AI-powered semantic search to make better use of their vast photo archives? This hands-on session will introduce how to create embeddings to help journalists and editors find the right images faster, as well as suggest the most compelling file photos and placement for a given story. Over the course of 75 minutes, participants will learn what embeddings and semantic search are and how to leverage their photo archives to create their own image semantic search system. We'll go beyond using AI tools for text analysis and generation and explore other ways AI can play a role in creating richer story packages for our audiences. Along the way, we'll discuss human-in-the-loop guardrails and the limitations of creating tools like this, and have a conversation about how a tool like this can fit into news production workflows in your newsrooms.",
+    "facilitators": "Dana Chiueh",
     "time": "10-11:15am",
     "day": "Thursday",
     "timeblock": "thursday-am-1",
@@ -42,7 +42,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1-bpkjcqt_ZFVc3rFbah3grVf_U4g3upfeQwzxRxEuoo/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/1_heCR6Mnq39vFQx3yx94INniF_r-gZMdl9_eqH17JBs/edit?usp=drive_link"
   },
   {
     "id": "fighting-censorship-government-data",
@@ -126,7 +126,7 @@
     "facilitators": "Jane Seidel, Julia Haslanger",
     "time": "11:45am-1pm",
     "day": "Thursday",
-    "timeblock": "thursday-pm-2",
+    "timeblock": "thursday-am-2",
     "room": "Memorial",
     "everyone": "",
     "social": "",
@@ -336,7 +336,7 @@
     "facilitators": "C.J. Sinner",
     "time": "4:15-5:30pm",
     "day": "Thursday",
-    "timeblock": "thursday-am-2",
+    "timeblock": "thursday-pm-2",
     "room": "Ski-U-Mah",
     "everyone": "",
     "social": "",
@@ -450,10 +450,10 @@
     "notepad": ""
   },
   {
-    "id": "unlock-image-archives",
-    "title": "Unlock your image archives with semantic search in under 75 minutes",
-    "description": "How can newsrooms harness AI-powered semantic search to make better use of their vast photo archives? This hands-on session will introduce how to create embeddings to help journalists and editors find the right images faster, as well as suggest the most compelling file photos and placement for a given story. Over the course of 75 minutes, participants will learn what embeddings and semantic search are and how to leverage their photo archives to create their own image semantic search system. We'll go beyond using AI tools for text analysis and generation and explore other ways AI can play a role in creating richer story packages for our audiences. Along the way, we'll discuss human-in-the-loop guardrails and the limitations of creating tools like this, and have a conversation about how a tool like this can fit into news production workflows in your newsrooms.",
-    "facilitators": "Dana Chiueh",
+    "id": "beyond-going-viral",
+    "title": "Beyond ‘going viral’: How to define what content is good content",
+    "description": "Going viral isn’t the only thing that matters anymore.\n\nAt the Minnesota Star Tribune, we found that defining our content’s success only by the volume of traffic it received did not lead to the outcomes we wanted for our audience and business. Instead, we introduced a metric called New Subscriber Paths, which looks at the stories a reader consumed before subscribing, and are working on building a suite of metrics to understand what types of stories are effective for different journalistic and business goals. \n\nWe are also developing a framework through machine learning to systematically categorize content the Star Tribune produces, allowing us to find what kinds of stories do better and bring that insight to the newsroom. \n\nIn this session, we’ll brainstorm new metrics that can capture different goals for your news organization and ways to categorize your content and audiences to dig deeper into these metrics. At the end of this session, we hope you’ll have new inspiration for how to define what’s a successful story at your organization.",
+    "facilitators": "Emily Hood, Genesis Qu",
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
@@ -462,7 +462,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1_heCR6Mnq39vFQx3yx94INniF_r-gZMdl9_eqH17JBs/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/1-bpkjcqt_ZFVc3rFbah3grVf_U4g3upfeQwzxRxEuoo/edit?usp=drive_link"
   },
   {
     "id": "tiny-tools-big-impact",

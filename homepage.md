@@ -5,31 +5,37 @@ permalink: /
 
 ### Let's build SRCCON together
 
-# Join us at SRCCON 2025!
+# It's time for SRCCON 2025!
 
-**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $295 plus fees](/attendees/#tickets).
+On July 10 & 11, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be with everyone for two days of amazing workshops, social sessions, and so many conversations.
 
-**Our program:** We've published [the 2025 schedule](/schedule/)! Take a look at what we have planned, mark your favorites and share with others!
- 
-**You can still get involved:** We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
+Here's what you need to know as you head into SRCCON:
 
-## Key dates for your calendar
+↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
+↪ [Read our attendee welcome guide](/welcome) 👋  
+↪ [More about logistics & participation](/attendees)  
+↪ [Attendee social club/info share!](https://etherpad.opennews.org/p/SRCCON2025-social-share) 🌱  
 
-<!-- * **March 10**: Deadline to submit session proposals and stipend applications
-* **By March 26**: Anyone who proposed a session or applied for a scholarship by March 10 has been notified -->
-* **Now through July**: We'll review more participation forms for attendees only, on a rolling basis until the conference
-* **July 10-11**: SRCCON 2025 in Minneapolis!
+### About this year's program
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2025, our call for participation is how to let us know!
+Here's [our official conference schedule](/schedule)—we’ll get started at 9am on Thursday and close by 6pm Friday. In between, there's so much to do:
 
-### When & where
+* **The SRCCON program:** Our workshops are community-built and peer-led. We'll teach each other to use tech and data better, we'll reimagine journalism culture together, and we'll find collaborators who can support us down the road.
+* **Our evening program:** After dinner on Thursday, SRCCON has casual sessions about life outside of work—hobbies, games, and other activities that let us hang out and connect over the things we love.
+* **Meals & snacks & breaks:** Our program includes lunch both days and dinner on Thursday, plus plenty of snacks and drinks and long breaks so you can keep chatting.
 
-On July 10-11 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887). Our program will begin around 9am on Thursday and close by 6pm Friday. If you’re figuring out travel plans, most participants arrive Wednesday afternoon and leave Saturday morning.
- 
-We have reserved a block of rooms at the [Courtyard Minneapolis Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1739474875459&key=GRP&guestreslink2=true&app=resvlink) at a base rate of $171 per night. The The Courtyard Minneapolis Downtown is located one Metro Transit Green Line stop away from the SRCCON venue, and our hotel block includes light rail passes (1 per day, per room). The reserved block of rooms will be available until June 17 or all rooms are booked, whichever happens first — booking early is always a good idea!
+#### More things to do
+
+SRCCON attendees love to bring games, snacks, and other things to share, plus plan local activities together. Jump in here:
+
+* **[SRCCON 2025 Info Share!](https://etherpad.opennews.org/p/SRCCON2025-social-share)**
+
+If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
+
+#### COVID safety guidelines
 
 We want everyone who comes to SRCCON to feel safe, and we know encouraging sensible precautions makes it possible for more members of our community to attend. We've kept an eye on journalism events since we last convened, and we’re seeing that we can come together in a group as long as we’re all doing our best to look out for others.
-	
+
 We will not require masking at SRCCON 2025, but some people may be masking. We ask participants to respect anyone wearing a mask, particularly in session spaces where people are gathering more closely together. We will have masks available, but we invite you to bring your preferred N95, KN95, or similar masks as well. We also strongly encourage attendees to be up to date on their vaccinations, test proactively and please consider staying home if you’re not feeling well. If you have any questions or need further information, [reach out to us](mailto:srccon@opennews.org). Thanks for taking care of each other at SRCCON!
 
 ### What you can expect at {{ page.event_name }}

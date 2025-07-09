@@ -406,6 +406,21 @@
   },
   {
     "id": "social-sessions-3",
+    "title": "Board Games @ SRCCON",
+    "description": "Board games for the playful and adventurous types! Check out the social share Etherpad to see what games people are bringing or sign up to bring / play something of your own!",
+    "facilitators": "Andrew Losowsky, David Montgomery",
+    "time": "7-8:00pm",
+    "day": "Thursday",
+    "timeblock": "thursday-evening-2",
+    "room": "Memorial",
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": "https://etherpad.opennews.org/p/SRCCON2025-social-share"
+  },
+  {
+    "id": "social-sessions-4",
     "title": "Arts & Crafts Hangout: Make your own rubber stamps!",
     "description": "Join us to carve and create your very own stamp using an eraser! This is a low-stakes printmaking activity that anyone can do — and is a perfect background activity while we chat and connect.",
     "facilitators": "Anna Marie Boone, Carolyn Fox",
@@ -420,7 +435,7 @@
     "notepad": "https://etherpad.opennews.org/p/SRCCON2025-social-share"
   },
   {
-    "id": "social-sessions-4",
+    "id": "social-sessions-5",
     "title": "Arts & Crafts Hangout: Make your own rubber stamps!",
     "description": "Join us to carve and create your very own stamp using an eraser! This is a low-stakes printmaking activity that anyone can do — and is a perfect background activity while we chat and connect.",
     "facilitators": "Anna Marie Boone, Carolyn Fox",
@@ -435,7 +450,7 @@
     "notepad": "https://etherpad.opennews.org/p/SRCCON2025-social-share"
   },
   {
-    "id": "social-sessions-5",
+    "id": "social-sessions-6",
     "title": "Unionization Q&A",
     "description": "Unionization in newsrooms has surged in recent years, with more and more people turning to unions to structure their responses to issues such as layoffs, AI use, political instability, and mergers or acquisitions. But what does it mean to unionize? What might happen if we do so? How do we strengthen our existing unions? What's a 'union', anyway? Bring your questions, experience (or lack thereof), and struggles to this conversational and informational Q&A session with a member of the CalMatters/The Markup Unit Council.",
     "facilitators": "Miles Hilton",
@@ -450,13 +465,28 @@
     "notepad": "https://etherpad.opennews.org/p/SRCCON2025-social-share"
   },
   {
-    "id": "social-sessions-6",
+    "id": "social-sessions-7",
     "title": "A Taste of Eat Street & Art at Mia",
     "description": "Join food critic Soleil Ho for a relaxed evening that’ll include stops at two Minneapolis gems! If you’re a fan of the post-dinner snack, this one’s for you. We’ll meet in Memorial Hall after dinner to arrange rideshares (Lyft/Uber recommended) and head over to Eat Street Crossing (2819 Nicollet Ave) to start off. (Note: This will involve a little more than a half mile of walking.) \n\nFirst up is Eat Street Crossing, a slick new food hall, where we can grab some ridiculous bubble teas (think Ube Latte Creme Brulee and Horchata) and/or ice cream from local favorite, Sebastian Joe’s. \n\nFrom there, we'll meander toward the Minneapolis Institute of Art (Mia), which stays open late on Thursday evenings. Along the way, we’ll catch glimpses of the many great restaurants on Nicollet Ave—and if you’re inspired to grab a Jamaican patty from Pimento or peel off for a piña colada from Little Tijuana, you’ll have plenty of opportunity to do so.\n\nOnce we get to Mia, you can immerse yourself in the incredible collections before the museum closes at 9 p.m. They’ll be doing some fun live performances and art making in the courtyard ’til close, too. It’s a fantastic chance to experience some local culture and connect with fellow attendees in a casual setting. We'll try to get a decent amount of time at the museum, so our Eat Street stop will be a delightful, efficient detour. Come enjoy some art, good company, and a taste of Minneapolis!",
     "facilitators": "Soleil Ho",
     "time": "7-9:00pm",
     "day": "Thursday",
     "timeblock": "thursday-evening-1",
+    "room": "Memorial",
+    "everyone": "",
+    "social": "y",
+    "break": "",
+    "transcription": "",
+    "notepad": "https://etherpad.opennews.org/p/SRCCON2025-social-share"
+  },
+  {
+    "id": "social-sessions-8",
+    "title": "A Taste of Eat Street & Art at Mia",
+    "description": "Join food critic Soleil Ho for a relaxed evening that’ll include stops at two Minneapolis gems! If you’re a fan of the post-dinner snack, this one’s for you. We’ll meet in Memorial Hall after dinner to arrange rideshares (Lyft/Uber recommended) and head over to Eat Street Crossing (2819 Nicollet Ave) to start off. (Note: This will involve a little more than a half mile of walking.) \n\nFirst up is Eat Street Crossing, a slick new food hall, where we can grab some ridiculous bubble teas (think Ube Latte Creme Brulee and Horchata) and/or ice cream from local favorite, Sebastian Joe’s. \n\nFrom there, we'll meander toward the Minneapolis Institute of Art (Mia), which stays open late on Thursday evenings. Along the way, we’ll catch glimpses of the many great restaurants on Nicollet Ave—and if you’re inspired to grab a Jamaican patty from Pimento or peel off for a piña colada from Little Tijuana, you’ll have plenty of opportunity to do so.\n\nOnce we get to Mia, you can immerse yourself in the incredible collections before the museum closes at 9 p.m. They’ll be doing some fun live performances and art making in the courtyard ’til close, too. It’s a fantastic chance to experience some local culture and connect with fellow attendees in a casual setting. We'll try to get a decent amount of time at the museum, so our Eat Street stop will be a delightful, efficient detour. Come enjoy some art, good company, and a taste of Minneapolis!",
+    "facilitators": "Soleil Ho",
+    "time": "7-9:00pm",
+    "day": "Thursday",
+    "timeblock": "thursday-evening-2",
     "room": "Memorial",
     "everyone": "",
     "social": "y",

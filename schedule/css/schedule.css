@@ -602,7 +602,7 @@ h3.slider-control {
 }
 
 @media only screen and (min-width: 900px) {
-    .session-length-short, .session-session {
+    .session-length-short, .session-session, .session-social {
         float: left;
         clear: none;
         width: 48%;

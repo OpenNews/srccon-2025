@@ -525,21 +525,6 @@
     "notepad": ""
   },
   {
-    "id": "beyond-going-viral",
-    "title": "Beyond ‘going viral’: How to define what content is good content",
-    "description": "Going viral isn’t the only thing that matters anymore.\n\nAt the Minnesota Star Tribune, we found that defining our content’s success only by the volume of traffic it received did not lead to the outcomes we wanted for our audience and business. Instead, we introduced a metric called New Subscriber Paths, which looks at the stories a reader consumed before subscribing, and are working on building a suite of metrics to understand what types of stories are effective for different journalistic and business goals. \n\nWe are also developing a framework through machine learning to systematically categorize content the Star Tribune produces, allowing us to find what kinds of stories do better and bring that insight to the newsroom. \n\nIn this session, we’ll brainstorm new metrics that can capture different goals for your news organization and ways to categorize your content and audiences to dig deeper into these metrics. At the end of this session, we hope you’ll have new inspiration for how to define what’s a successful story at your organization.",
-    "facilitators": "Emily Hood, Genesis Qu",
-    "time": "9:30-10:45am",
-    "day": "Friday",
-    "timeblock": "friday-am-1",
-    "room": "Memorial",
-    "everyone": "",
-    "social": "",
-    "break": "",
-    "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1-bpkjcqt_ZFVc3rFbah3grVf_U4g3upfeQwzxRxEuoo/edit?usp=drive_link"
-  },
-  {
     "id": "tiny-tools-big-impact",
     "title": "Tiny tools for big impact: Local and lightweight LLMs for journalists",
     "description": "Discover how lightweight, open-source, locally-run tools can transform your reporting process! This hands-on session will introduce journalists to \"tiny tools\" – free, open-source solutions that run directly on your computer without subscription fees or cloud dependencies. Participants will learn ways to easily integrate these tools within existing workflows, or prototype customized solutions for specific reporting tasks.\n\nWe'll explore tools for unstructured data extraction, data cleaning, LLM-based text processing, RSS-based news aggregation, and image transcription, including WebLLM, Transformers.js, DuckDB, Tabula, and Tesseract.js. We will do walkthroughs with a couple different tools that you can follow along with, or modify as per your needs. You'll leave with practical knowledge for building a personalized toolkit that respects your autonomy, protects sensitive information, and enhances your workflow.",
@@ -570,10 +555,10 @@
     "notepad": "https://docs.google.com/document/d/1_toum98xYHCWML4bRl9ofo4F0plv9l3wMDyrPmyuWTA/edit?usp=drive_link"
   },
   {
-    "id": "meet-flatjo-testing-analog",
-    "title": "Meet #FlatJo – Testing methods to use analog and digital tools to build trust in local news and share resources with other journalists",
-    "description": "This session will explore how to use a paper doll template – FlatJo – to build community and trust in the news by taking the “Flat Stanley” method to showcase original data / document sources and community questions via a digital album. \n\nParticipants will get their own FlatJo to customize and then plan engagement for small newsrooms / freelancers / larger newsrooms to generate resources for new journalists and connect with audiences in their communities. \n\nThe project will commence at SRCCON in July and continue for one year. The digital photo album can be viewed throughout the year and results will be reviewed at SRCCON 2026.",
-    "facilitators": "Pam Dempsey, Joe Germuska",
+    "id": "beyond-going-viral",
+    "title": "Beyond ‘going viral’: How to define what content is good content",
+    "description": "Going viral isn’t the only thing that matters anymore.\n\nAt the Minnesota Star Tribune, we found that defining our content’s success only by the volume of traffic it received did not lead to the outcomes we wanted for our audience and business. Instead, we introduced a metric called New Subscriber Paths, which looks at the stories a reader consumed before subscribing, and are working on building a suite of metrics to understand what types of stories are effective for different journalistic and business goals. \n\nWe are also developing a framework through machine learning to systematically categorize content the Star Tribune produces, allowing us to find what kinds of stories do better and bring that insight to the newsroom. \n\nIn this session, we’ll brainstorm new metrics that can capture different goals for your news organization and ways to categorize your content and audiences to dig deeper into these metrics. At the end of this session, we hope you’ll have new inspiration for how to define what’s a successful story at your organization.",
+    "facilitators": "Emily Hood, Genesis Qu",
     "time": "9:30-10:45am",
     "day": "Friday",
     "timeblock": "friday-am-1",
@@ -582,7 +567,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1fvJb4-n7M1OJGo0mfreyvLEe-NFkveKxIKHnKI0ZoqU/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/1-bpkjcqt_ZFVc3rFbah3grVf_U4g3upfeQwzxRxEuoo/edit?usp=drive_link"
   },
   {
     "id": "make-audio-great-good",
@@ -797,7 +782,7 @@
   {
     "id": "youth-movement-journalism",
     "title": "Youth movement journalism: How to meet the moment and pave a better future",
-    "description": "As the journalism industry suffers, youth are showing us more community-centered and cost-effective ways to do journalism. \n\nWe’ll explore the ways Shift Press and other youth media organizations across the nation are reporting on local movements, creating youth-friendly organization infrastructure, and surviving in spite of industry trends. We’ll also discuss compare and contrast these groups to past youth movement media organizations led by the Student Nonviolent Coordinating Committee and the Young Lords.",
+    "description": "As the journalism industry suffers, youth are showing us more community-centered and cost-effective ways to do journalism. \n\nWe’ll explore the ways Shift Press and other youth media organizations across the nation are reporting on local movements, creating youth-friendly organization infrastructure, and surviving in spite of industry trends. We’ll also compare and contrast these groups to past youth movement media organizations led by the Student Nonviolent Coordinating Committee and the Young Lords.",
     "facilitators": "Uyiosa Elegon",
     "time": "3:45-5pm",
     "day": "Friday",
